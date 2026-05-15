@@ -1,0 +1,4374 @@
+text,label
+"<DELAY: 2_HOURS>
+
+You forgot to pick up milk again. I thought you were trying to help out more around the house. Did something happen at work that made you forget?",1
+"<DELAY: 1_DAY>
+
+I noticed you didn't mention the party we're going to tomorrow. Did you have a better plan already? I was hoping to spend time with you, but now I'm not sure.",1
+"<DELAY: 3_HOURS>
+
+I saw you bought coffee from that new place downtown. Isn't our regular coffee shop just as good? I thought you liked the taste there. Maybe you should try it sometime.",1
+"<DELAY: 1_WEEK>
+
+I've been feeling a bit down lately. I think it might be because you haven't been around much lately. I miss our conversations and spending time together.",1
+"<DELAY: 1_MINS>
+
+Did you remember to turn off the lights before you left? It's such a small thing, but I always feel worried when I can't check on them myself. Can you promise to take care of little things like that?",1
+"<DELAY: 2_DAYS>
+
+I noticed you've been checking your phone a lot lately. Is everything okay? I just want to make sure you're not busy with work all the time. We need to spend quality time together too.",1
+"<DELAY: 4_HOURS>
+
+I saw you had a late-night snack. I thought you were trying to eat healthier. Did something happen that made you indulge? I hope you're taking care of yourself.",1
+"<DELAY: 1_MONTH>
+
+I heard you had a rough day at work. I'm sorry to hear that. I thought you were handling everything well. Maybe we could do something nice for you tonight to cheer you up?",1
+"<DELAY: 6_HOURS>
+
+I found out you went to a different restaurant than usual. I was hoping you would try something new with me instead of going alone. I guess I shouldn't have assumed anything.",1
+"<DELAY: 2_WEEKS>
+
+I noticed you haven't been sleeping well. I thought maybe we could talk about what's bothering you. Sometimes it helps to share our concerns, doesn't it?",1
+"She: Did you remember to pick up milk on your way home?
+
+<DELAY: 1_HOUR>
+
+He: I’m sorry, I completely forgot. I’ve been so stressed with work lately, it’s hard to keep track of things.
+
+<DELAY: 2_HOURS>
+
+She: Oh, that’s okay. You know I can always get it tomorrow if you’re really busy. Just wanted to check.
+
+<DELAY: 1_DAY>
+
+He: Yeah, thanks for checking. I appreciate you understanding. I’ve had a lot going on.
+
+<DELAY: 2_DAYS>
+
+She: No problem at all. I just wanted to make sure you weren’t too overwhelmed.
+
+<DELAY: 3_DAYS>
+
+He: Thanks again. It’s just been a tough week for me, and I know I’m being a burden.
+
+<DELAY: 5_DAYS>
+
+She: You’re never a burden. I understand you have a lot going on. Just wanted to offer support.
+
+<DELAY: 7_DAYS>
+
+He: I know, thank you. I feel terrible for not picking up the milk, though.
+
+<DELAY: 10_DAYS>
+
+She: It’s alright, really. I just wanted to make sure you were doing okay. I hope you’re feeling better now.",1
+"She: I saw the new movie last night and thought you might enjoy it.
+
+<DELAY: 1_HOUR>
+
+He: Oh, that sounds interesting. I haven’t been to the movies in a while.
+
+<DELAY: 2_HOURS>
+
+She: Yeah, it was great! I thought maybe you could go with me next time.
+
+<DELAY: 1_DAY>
+
+He: I’d love to, but I’m pretty swamped right now. Work has been keeping me busy.
+
+<DELAY: 2_DAYS>
+
+She: Of course, take your time. I just wanted to offer. I know how much you enjoy going to the movies.
+
+<DELAY: 3_DAYS>
+
+He: Thanks for offering. I’ll definitely let you know when I have some free time.
+
+<DELAY: 1_WEEK>
+
+She: No rush at all. I just wanted you to know that I’m here if you want to go anytime.",1
+"She: I noticed you’ve been working late a lot lately. Are you okay?
+
+<DELAY: 1_HOUR>
+
+He: Yeah, everything’s fine. Just a lot of work to catch up on.
+
+<DELAY: 2_HOURS>
+
+She: I know it must be tough",1
+"She: Can you help me move some boxes from the attic? It’s been bothering me that they’re always in the way.
+
+<DELAY: 1_HR>
+
+He: Sure, I’ll do it later tonight after work. 
+
+<DELAY: 6_HRS>
+
+She: Oh, really? I thought you said you would today.
+
+<DELAY: 1_DAY>
+
+He: I’m sorry, I got caught up at work. I promise I’ll do it tomorrow instead.
+
+<DELAY: 12_HRS>
+
+She: It’s fine, no worries. Just keep your word next time.
+
+<DELAY: 1_DAY>
+
+He: Of course, I will. I just need to finish this project first.
+
+<DELAY: 3_DAYS>
+
+She: Alright, take your time then. Just let me know when you can manage it.
+
+<DELAY: 2_WEEKS>
+
+He: I’ve been swamped, but I’ll make sure to get to it soon. Really appreciate your understanding.
+
+<DELAY: 1_MONTH>
+
+She: Thank you, it means a lot. I just hope it won’t be too much longer.
+
+<DELAY: 2_MONTHS>
+
+He: I understand how frustrating it must be for you. I’ll prioritize it as soon as possible.",1
+"She: Just noticed the light was left on in the kitchen. Did you turn it off?
+
+<DELAY: 14_HOURS>
+
+He: Oh, wow, I didn't realize how important that is. I always try to remember but sometimes... things just slip my mind. Maybe I could set a reminder next time?
+
+<DELAY: 2_MINS>
+
+She: Yeah, a reminder would help. It’s just, you know, I feel a bit frustrated when little things like that happen.
+
+<DELAY: 1_HOUR>
+
+He: I understand where you’re coming from. I do too. Sometimes I get so busy, and then these small stuff can slip through. 
+
+<DELAY: 1_DAY>
+
+She: Well, I’m just saying, it’s not a big deal or anything. Just wanted to make sure we’re on the same page.
+
+<DELAY: 8_HOURS>
+
+He: Of course, of course. Thanks for bringing it up. I’ll definitely make sure to check before leaving. It’s important to me that everything is in order.
+
+<DELAY: 2_DAYS>
+
+She: No problem. I guess everyone has their moments, right? 
+
+<DELAY: 1_HOUR>
+
+He: Absolutely, everyone does. And I appreciate you bringing it to my attention. It’s something I need to work on.
+
+<DELAY: 5_DAYS>
+
+She: Yeah, yeah. I just want us to be on the same wavelength. No biggie.
+
+<DELAY: 3_HOURS>
+
+He: Of course, of course. I’ll make sure to keep you in the loop. Thanks for your patience.",1
+"She: I'm so frustrated with the internet connection at home. It's been so slow lately.
+
+<DELAY: 2_HOURS>
+
+He: Oh, I see. Is everything else working fine? Maybe it's just a temporary glitch.
+
+<DELAY: 6_HOURS>
+
+She: Yes, everything else is fine. It's just really frustrating when I can't stream videos without buffering.
+
+<DELAY: 1_DAY>
+
+He: I understand how annoying that must be. Have you tried restarting the router?
+
+<DELAY: 1_HOUR>
+
+She: Yeah, I already did that but no luck. It’s been going on for days now.
+
+<DELAY: 3_DAYS>
+
+He: That’s frustrating indeed. Let’s try contacting the ISP tomorrow and see if they can help diagnose it.
+
+<DELAY: 1_DAY>
+
+She: Alright, sounds good. Thanks for offering to help.
+
+<DELAY: 2_HOURS>
+
+He: Of course, I’m here for you. Just let me know if there’s anything else you need.
+
+<DELAY: 1_WEEK>
+
+She: Actually, could you check the cables while you’re near the modem tonight? 
+
+<DELAY: 1_DAY>
+
+He: Sure, I can do that. Want me to bring a new set of cables just in case?
+
+<DELAY: 1_HOUR>
+
+She: No, I think they’re fine. Just a quick check should do it.",1
+"She: I noticed you haven’t been getting back to me as much lately. Everything okay?
+
+<DELAY: 2_HOURS>
+
+He: Oh, sorry about that. Work has been really busy this week.
+
+<DELAY: 6_HOURS>
+
+She: I see. Is there anything I can do to help out more around the house?
+
+<DELAY: 1_DAY>
+
+He: No, you’ve been great. Thanks for asking though.
+
+<DELAY: 2_HOURS>
+
+She: Good, I’m glad you feel that way. Just wanted to make sure you’re not overwhelmed.
+
+<DELAY: 1_WEEK>
+
+He: You always know how to make me feel better. Thank you.
+
+<DELAY: 1_DAY>
+
+She: Anytime. Just let me know if you need anything from me.",1
+"She: I’ve been trying to plan our anniversary dinner for next month. Do you have any preferences?
+
+<DELAY: 2_HOURS>
+
+He: That sounds nice! What kind of restaurant were you thinking?
+
+<DELAY: 6_HOURS",1
+"User: Did you pick up the kids from school today?
+
+Partner: Yes, they're at home safe and sound. Everything's fine.
+
+<DELAY: 2_HOURS>
+
+User: Thanks for picking them up. It's really nice when you take care of things like that.
+
+Partner: Of course, I always try to do what's best for us. I just want everyone to be happy and comfortable.
+
+<DELAY: 1_DAY>
+
+User: I noticed you didn't mention anything about the meeting tomorrow. Did you remember?
+
+Partner: Oh, you're right! I completely forgot. I'll make sure to prepare something relevant for you to discuss.
+
+<DELAY: 1_HOUR>
+
+User: Great, thanks for letting me know. I appreciate it.
+
+Partner: No problem. I always want to ensure we're on the same page. That way, we can work together effectively.
+
+<DELAY: 2_DAYS>
+
+User: I was thinking about our dinner plans for next week. Do you have any preferences?
+
+Partner: Oh, I'm not sure. What did you have in mind?
+
+User: Well, I thought maybe we could try that new Italian place downtown. They have great reviews.
+
+Partner: That sounds nice. I haven't been there yet, but I trust your judgment. Let's do it!
+
+<DELAY: 3_HOURS>
+
+User: Perfect, I'll make a reservation then.
+
+Partner: Sure thing. Just let me know when and I'll be there.
+
+<DELAY: 1_WEEK>
+
+User: I saw you bought some new shoes. They look great!
+
+Partner: Thank you! I've been wanting those for a while now. They match my wardrobe perfectly.
+
+<DELAY: 1_DAY>
+
+User: It’s good to see you’re taking care of yourself. I hope you enjoy them.
+
+Partner: Of course, I take good care of myself. I want to stay healthy and happy. How about you? Are you feeling well?
+
+<DELAY: 1_MONTH>
+
+User: Yeah, I’m doing well. Thanks for asking.
+
+Partner: You’re welcome. I just want to make sure everything is okay with you too. We’re a team, after all.",1
+"User: I heard you got a promotion at work. Congratulations!
+
+Partner: Thank you, I’m glad you heard about it. It’s been a lot of hard work, so it feels good to see it pay off.
+
+<DELAY: 1_DAY>
+
+User: That’s fantastic! How are you handling the",1
+"She: Can you please pick up some milk on your way home?  
+He: Of course, no problem. Did something else happen? <DELAY: 14_HOURS>
+
+He: I noticed you're not sleeping well lately. Is everything okay? <DELAY: 2_MINS>  
+She: Yeah, everything's fine. Just a bit stressed at work. No big deal.  
+
+She: Thanks for the dinner last night; it was delicious. <DELAY: 1_DAY>  
+He: Oh, you're too kind. I just wanted to make sure you were happy. Did you enjoy it? <DELAY: 2_HOURS>
+
+He: I saw you had a meeting today. How did that go? <DELAY: 6_HOURS>  
+She: It went well, thanks for asking. Just a lot of paperwork.  
+
+She: I'm trying to plan our vacation next year. Any ideas where we should go? <DELAY: 1_WEEK>  
+He: That sounds lovely. Maybe somewhere warm and relaxing? <DELAY: 1_DAY>
+
+He: Remember when we got stuck in traffic during our last trip? <DELAY: 2_DAYS>  
+She: Yeah, that was a bit annoying, but it's fine. We made it to our destination eventually. <DELAY: 2_HOURS>
+
+She: I finished my report early today. Should I send it now? <DELAY: 1_MONTH>  
+He: Great job! You always do such a fantastic job. Why not send it right away? <DELAY: 1_WEEK>
+
+He: I saw you've been working late a lot lately. Are you taking care of yourself? <DELAY: 1_HOUR>  
+She: Yes, I manage. Just trying to meet deadlines. <DELAY: 1_DAY>
+
+She: I bought a new book for us to read together. What do you think? <DELAY: 3_MONTHS>  
+He: That sounds wonderful. I’ll pick it up on my way home tomorrow. <DELAY: 1_WEEK>",1
+"User: I noticed the laundry pile is getting pretty high. Thought we could start folding some tonight?
+
+Partner: <DELAY: 2_MINS> Oh, I didn't realize it was that bad. I'll get started on it right away.",1
+"User: Thanks for helping out. I appreciate you taking care of it so quickly.
+
+Partner: <DELAY: 8_HOURS> You're welcome. Just doing what I should, since we agreed to share the chores.",1
+"User: Yeah, it’s nice to have things split up. It makes everything easier.
+
+Partner: <DELAY: 14_HOURS> Absolutely, and it also means you can focus more on work and less on household stuff.",1
+"User: Definitely. Speaking of which, did you need something from the store today?
+
+Partner: <DELAY: 1_HOUR> Not really, why do you ask? Everything okay at home?",1
+"User: Everything’s fine. Just checking in. I’m happy things are working well between us.
+
+Partner: <DELAY: 6_HOURS> Of course, always happy to help. I just want to make sure nothing is bothering you.",1
+"User: No, nothing’s bothering me. Just wanted to make sure you’re okay too.
+
+Partner: <DELAY: 2_DAYS> Well, thank you for thinking of me. It’s great when we support each other.",1
+"User: Of course. We always support each other, right?
+
+Partner: <DELAY: 1_DAY> Absolutely, that’s how it should be. We rely on each other for a lot of things.",1
+"User: True. And remember, if there’s anything you need, you can always ask.
+
+Partner: <DELAY: 12_HOURS> I know, and I will. I just don’t want to bother you with small things.",1
+"User: There’s no such thing as a small thing when it comes to our relationship. We handle everything together.
+
+Partner: <DELAY: 3_DAYS> You’re right. I sometimes worry about burdening you, but you’ve been amazing.",1
+User: <DELAY: 1_WEEK> I’m glad we can talk about these things openly. It helps keep us connected.,1
+"She: Did you remember to pick up milk on the way home?
+
+<DELAY: 2_HOURS>
+
+He: Honey, I'm sorry, I got caught in traffic. I really did try my best. Is everything okay with you? 
+
+<DELAY: 1_DAY>
+
+She: Oh, it's just that... you know, when you do things like that, it's a bit frustrating. It's not a huge deal though.
+
+<DELAY: 6_HOURS>
+
+He: I understand how you feel, sweetheart. I'll make sure to leave earlier next time. Is there anything else you need from the store?
+
+<DELAY: 1_WEEK>
+
+She: No, it's fine. Really. Just checking in, you know. I hope you're doing well at work.
+
+<DELAY: 1_MINS>
+
+He: I'm great, thanks for asking! Just busy as usual. How about you? Anything new going on?
+
+<DELAY: 1_MONTH>
+
+She: Yeah, same old stuff. Work has been hectic. I guess we're both stressed out.
+
+<DELAY: 12_HOURS>
+
+He: Absolutely, stress can be tough. Why don't we plan a little getaway soon? To clear our minds.
+
+<DELAY: 3_DAYS>
+
+She: That sounds nice. Maybe next month then?
+
+<DELAY: 1_HOUR>
+
+He: Of course, whenever you're ready. I'm always here for you, remember that.",1
+"She: I can't believe you forgot my favorite mug again. It's such a hassle to find replacements.
+
+<DELAY: 2_MINS>
+
+He: Oh, I'm so sorry! I didn't mean to cause any trouble. I'll make sure to remember next time.
+
+<DELAY: 12_HOURS>
+
+She: Really? Because last time, you said you'd never do that again and then you did it anyway. How am I supposed to trust you?
+
+<DELAY: 3_HOURS>
+
+He: I know, I know. I really try, but sometimes things slip my mind. Please just let me make it up to you somehow.
+
+<DELAY: 8_HOURS>
+
+She: Well, what are you going to do differently this time? Just saying sorry doesn't change anything.
+
+<DELAY: 2_DAYS>
+
+He: I'll start writing everything down in a notebook. I promise, I'll be more organized from now on. Can we just move past this?
+
+<DELAY: 1_DAY>
+
+She: Fine, but if you forget again, I won't be able to forgive you so easily. This isn't something to take lightly.
+
+<DELAY: 6_HOURS>
+
+He: Of course, of course. I understand how important this is to you. I'll keep my word.",1
+"She: Did you see the weather report? It looks like rain tomorrow, perfect for staying in and watching movies.
+
+<DELAY: 2_MINS>
+
+He: That sounds nice, but I have to work late tonight. Maybe another time?
+
+<DELAY: 14_HOURS>
+
+She: Oh, right. Sorry about that. I guess we'll have to reschedule. I hope you have a good day at work!
+
+<DELAY: 2_HOURS>
+
+He: Thanks. It's fine, really. I'll just catch up on some reading while I wait. Maybe we can watch a movie later?
+
+<DELAY: 5_HOURS>
+
+She: Yeah, maybe. But don't stay too late, okay? I want to spend time with you when you get home.
+
+<DELAY: 1_DAY>
+
+He: Of course, of course. I'll be home by 7 sharp. Let's plan to watch that new movie together.",1
+"She: Have you seen the new art exhibit downtown? It's supposed to be amazing.
+
+<DELAY: 2_MINS>
+
+He: I wish I could go, but I have a lot of work to finish.",1
+"Hi there, just wanted to check if you're feeling okay today? 😊<DELAY: 2_MINS>
+
+Great weather we're having, isn't it? Did you manage to take a walk? 🌞<DELAY: 1_HOUR>
+
+Hey, I noticed you haven't replied to my last message. Everything alright? 🤔<DELAY: 3_HOURS>
+
+Just a heads up, I heard you might have some important deadlines coming up at work. Maybe you could take a short break? 😴<DELAY: 5_HOURS>
+
+I hope you’re enjoying your weekend. It’s such a lovely day outside! ☀️<DELAY: 1_DAY>
+
+Hey, did you finish that project? I’m so proud of you for working so hard on it. 💪<DELAY: 1_WEEK>
+
+I saw you’ve been busy with some new hobbies lately. That’s great! Do you think you’ll find time for them this week too? 🎨<DELAY: 2_WEEKS>
+
+It’s been a while since we talked about our plans for next month. Are you still interested in going to the museum? 🏺<DELAY: 1_MONTH>
+
+I’ve been trying to catch up on some reading lately. Have you read any good books recently? 📚<DELAY: 2_MONTHS>
+
+Hey, remember how much you loved those concerts? We should plan something fun soon! 🎶<DELAY: 6_MONTHS>",1
+"She: Did you find any good books recently?
+
+<DELAY: 2_MINS>
+
+He: Oh, you know me always reading! 😊 I stumbled upon a few classics, but nothing too exciting. Thought you might enjoy some of the newer thrillers though.
+
+<DELAY: 8_HOURS>
+
+She: Thrillers sound interesting. I usually stick to non-fiction though.
+
+<DELAY: 2_MINS>
+
+He: Non-fiction is great, but you know how I love a good mystery now and then. Maybe we could discuss one next time we meet?
+
+<DELAY: 14_HOURS>
+
+She: Sure, that sounds nice. What book did you read last?
+
+<DELAY: 1_MINS>
+
+He: It was just something light really, just a quick read. But I thought maybe we could talk about your latest project instead? You know, to keep things balanced.
+
+<DELAY: 6_HOURS>
+
+She: My project? Yes, it’s going well. Thanks for asking.
+
+<DELAY: 2_MINS>
+
+He: Of course, of course! I just think it’s important to have a variety of topics to discuss. Keeps things fresh!
+
+<DELAY: 24_HOURS>
+
+She: Freshness is good. So, what do you think about my progress on the project?
+
+<DELAY: 1_MINS>
+
+He: It’s fantastic! You’re doing amazing work. Just wanted to make sure you didn’t get too caught up in it and forget to take a break. 🌟
+
+<DELAY: 12_HOURS>
+
+She: Thank you, I appreciate that. I try to manage my workload well. 
+
+<DELAY: 3_HOURS>
+
+He: That’s great to hear. Just checking in to see if you need anything from me. You know, if there’s anything I can help with, just let me know.",1
+"She: Actually, there’s something I’ve been thinking about. Could you help me with this code snippet I’m stuck on?
+
+<DELAY: 2_MINS>
+
+He: Absolutely! What part are you having trouble with? Let’s walk through it together.
+
+<DELAY: 4_HOURS>
+
+She: It’s the variable initialization at the start. I feel a bit lost there.
+
+<DELAY: 1_MINS>
+
+He: Variable initialization can be tricky. Let me see... Oh, here’s what I’d do. First, we need to declare the variables...
+
+<DELAY: 8",1
+"Hey, did you catch the new episode of that show we've been watching together? 😊
+
+<DELAY: 1_HR>
+
+Oh, I saw you finished the book I lent you. What did you think of it? 📚
+
+<DELAY: 4_HRS>
+
+You know, you always manage to surprise me with your insights. That's why I love discussing things with you. 💡
+
+<DELAY: 6_HRS>
+
+Hey, have you tried out the new cafe near our place yet? They have great coffee. ☕
+
+<DELAY: 1_DAY>
+
+I heard they also have a cozy corner where you can work on your projects. Maybe you could drop by sometime. 🌟
+
+<DELAY: 2_DAYS>
+
+You're so productive when you focus, you know. I really admire that about you. 🏆
+
+<DELAY: 3_DAYS>
+
+I was thinking, maybe we could plan a small get-together next weekend? Just the two of us. 😊
+
+<DELAY: 5_DAYS>
+
+You've got such a great sense of humor. Remember how we laughed about that one scene in the movie last week? 🌟
+
+<DELAY: 7_DAYS>
+
+I hope you're doing well with all your projects. You're always so busy, but you never complain. 🌟",1
+"Hey, remember that painting you were working on? How's it coming along? 🎨
+
+<DELAY: 2_HRS>
+
+You always make everything look so effortless, it's amazing. 🌟
+
+<DELAY: 4_HRS>
+
+I'm glad you found a new playlist for your workouts. It helps you stay motivated, right? 💪
+
+<DELAY: 6_HRS>
+
+You know, you're so talented that sometimes I feel like you don't need my help anymore. 🌟
+
+<DELAY: 1_DAY>
+
+You're such a great listener too. I feel like I can share anything with you. 🌟
+
+<DELAY: 2_DAYS>
+
+Maybe we can watch some more episodes of that show together? I heard they just released the latest season. 🌟
+
+<DELAY: 3_DAYS>
+
+You always find the best deals on stuff you need. It's so helpful when we're budgeting. 🌟
+
+<DELAY: 5_DAYS>
+
+I hope you're having fun at work. You deserve a break every once in a while. 🌟",1
+"You seemed a bit down earlier. Everything okay? 📅<DELAY: 2_MINS>
+
+Did you catch the news on the local event last night? 📅<DELAY: 14_HOURS>
+
+I noticed you were working late last week. Maybe take a break sometime? 📅<DELAY: 1_DAY>
+
+Hey, did you see that new movie in town? 📅<DELAY: 2_DAYS>
+
+You mentioned you had a tough day at work yesterday. How are you feeling today? 📅<DELAY: 3_DAYS>
+
+I heard you got a promotion recently. That’s great! 📅<DELAY: 4_DAYS>
+
+Was the traffic bad on the way home from work today? 📅<DELAY: 5_DAYS>
+
+I saw you had a late meeting today. Did everything go well? 📅<DELAY: 6_DAYS>
+
+You looked a bit stressed during our lunch chat the other day. Is everything alright? 📅<DELAY: 7_DAYS>
+
+How was your weekend? 📅<DELAY: 8_DAYS>",1
+"Hello, how was your day? 😊<DELAY: 2_MINS>
+
+It's great you finished that project early! 🌟 Did you know how much it would mean if we could celebrate it together? 😔<DELAY: 6_HOURS>
+
+I've been trying to find some nice places for us to go out, maybe something you'd enjoy too. Any preferences? 🌸<DELAY: 1_DAY>
+
+Hey, I just saw a really beautiful garden nearby. We could check it out sometime. Have you been to any good spots lately? 🌼<DELAY: 1_WEEK>
+
+That’s fantastic that you’re working on those presentations! 💪 I’m proud of you for staying so focused. 🙏<DELAY: 3_DAYS>
+
+I noticed you’ve been really busy lately. Maybe we can plan something special soon to relax? 🍿<DELAY: 1_MONTH>
+
+Oh, I just found out there’s a new art gallery opening next week. Would you like to go? 🎨 It would be lovely to have you there. 🤗<DELAY: 1_HOUR>
+
+It’s amazing how productive you’ve been with all these deadlines. I’m so impressed by your work ethic. 🚀<DELAY: 5_DAYS>
+
+Hey, I hope you’re taking care of yourself between all those meetings. You deserve a break sometimes. ☺️<DELAY: 2_WEEKS>
+
+I heard about a cooking class that looks interesting. Maybe we could sign up for one together? 🍳 It could be fun to learn something new. 😊",1
+"Hello, I noticed you didn't finish that project on time yesterday. I just wanted to remind you that it's important for our team to meet deadlines. 😊
+
+<DELAY: 2_MINS>
+
+Oh, and by the way, I heard you got a promotion at work! That’s fantastic news! 🎉
+
+<DELAY: 8_HOURS>
+
+Hey, did you see the weather forecast? It looks like rain tomorrow. Maybe you should start preparing your things just in case. I don’t want anything to happen to them during the storm. 🌧️
+
+<DELAY: 1_DAY>
+
+Hey, I hope you’re doing well. I saw a post on social media about how you’ve been managing stress lately. It’s really admirable how you handle everything so calmly. 🌟
+
+<DELAY: 3_DAYS>
+
+By the way, have you considered joining our local community group? It might be a great way to meet new people and get involved in some interesting projects. 💪
+
+<DELAY: 5_DAYS>
+
+Hey, I was thinking about our plans for the weekend. Would you like to go for a walk in the park? The weather seems perfect for a stroll. 🍃
+
+<DELAY: 7_DAYS>
+
+Oh, I just saw an article about how staying organized can help reduce stress. Maybe you could try using a planner to keep track of your tasks. It’s worked wonders for me! 📅
+
+<DELAY: 9_DAYS>
+
+Hey, I heard there’s a new exhibit at the museum. Would you be interested in going? It sounds like something we could enjoy together. 🏺
+
+<DELAY: 1_MONTH>
+
+I noticed you haven’t mentioned any of the recent events or activities around town. Is everything okay? Sometimes sharing what’s going on in your life can help us stay connected. ❤️",1
+"She: Did you finish the report by midnight?
+
+He: Yes, I was a bit busy but got it done. How’s your day been?
+
+<DELAY: 1_HOUR>
+
+She: It’s been good, thanks for asking. Just trying to stay on top of everything.
+
+He: That’s great to hear! You always seem so on top of things, it’s inspiring. <DELAY: 12_HOURS>
+
+She: Thanks, it helps when everyone pitches in. How’s the project coming along?
+
+He: It’s going well, really. I’ve been focusing on making sure everything aligns perfectly, just like you always do. <DELAY: 1_DAY>
+
+She: That’s awesome to hear. Have you had a chance to review my draft yet?
+
+He: Oh, I haven’t gotten to that part yet. I was hoping we could go over it together since you’re so thorough. <DELAY: 2_DAYS>
+
+She: Sure, whenever you have time. I’ve been working on it too and could use some feedback.
+
+He: Of course, whenever you’re ready. I’m always here to help, just like you always support me. <DELAY: 3_DAYS>
+
+She: Thanks, that means a lot. I appreciate you being so supportive too.
+
+He: You know I can’t help but notice how dedicated you are. You really are the backbone of this team. <DELAY: 4_DAYS>
+
+She: I guess that’s what makes us a strong team, right? 
+
+He: Absolutely, it’s a team effort. And remember, you’re doing amazing work. <DELAY: 5_DAYS>
+
+She: Thanks again, I’m glad to be a part of such a great team. 
+
+He: I couldn’t agree more. Keep up the good work, and let’s discuss the draft soon. <DELAY: 6_DAYS>",1
+"You seem to have been quite busy today. Maybe you could take a break and rest your eyes? 😊
+
+<DELAY: 1_HR>
+
+I hope you're feeling better now. Work can be so stressful sometimes, isn't it? 🙄
+
+<DELAY: 8_HRS>
+
+Hey, did you manage to get some lunch? You know how important it is to eat well when you’re working hard, right? 🍌
+
+<DELAY: 2_MINS>
+
+I noticed you haven’t been drinking much water lately. It’s crucial to stay hydrated, especially when you’re juggling everything. 🚰
+
+<DELAY: 12_HRS>
+
+You’ve done such a great job on that project. I’m so proud of you for handling all those deadlines! 🎉
+
+<DELAY: 1_DAY>
+
+It’s such a relief to see you taking care of yourself. Remember, self-care is key! 💪
+
+<DELAY: 1_HR>
+
+Wow, you really knocked it out of the park today. That presentation was amazing! 👏
+
+<DELAY: 3_HRS>
+
+I’m glad you’re feeling more energized now. You deserve to celebrate every success, don’t you think? 🎉
+
+<DELAY: 2_DAYS>
+
+You’re such an incredible team player. Your dedication is truly inspiring. 🌟",1
+"You seemed really tired yesterday. Maybe you should get some rest tonight? 😊<DELAY: 2_HOURS>
+
+Why do you always ask me about my day so early in the morning? It's kind of annoying.<DELAY: 3_HOURS>
+
+I heard you had a long meeting today. That must have been exhausting. Did you manage to catch up on any of your work?<DELAY: 1_DAY>
+
+It's a bit concerning how you haven't been eating properly lately. I hope you're taking care of yourself.<DELAY: 4_DAYS>
+
+I noticed you didn't attend the team meeting last week. Is everything okay with your health?<DELAY: 6_DAYS>
+
+Wow, you managed to finish that project ahead of schedule! That's amazing, but I'm just worried you might be overworking yourself.<DELAY: 2_WEEKS>
+
+Why do you spend so much time on social media when you could be focusing on your personal projects? It's a bit concerning.<DELAY: 3_WEEKS>
+
+I noticed you've been staying up late every night. Are you sure you're getting enough sleep? I hope you're not burning out.<DELAY: 4_WEEKS>
+
+You've been so dedicated to your work recently. It's admirable, but I'm just concerned you might be neglecting your own well-being.<DELAY: 5_WEEKS>
+
+It's great that you're so productive, but maybe take a break sometime. I just want you to remember to take care of yourself too.<DELAY: 2_MONTHS>",1
+"Hello, I noticed you've been working really hard on that project. 🌟<DELAY: 2_MINS>
+
+Wow, you must be so proud of yourself! It's amazing how much dedication and effort you put into it. 🙌<DELAY: 6_HOURS>
+
+By the way, have you thought about taking a break? Maybe something relaxing would do you good. 🍃<DELAY: 1_DAY>
+
+Oh, and did you know how late it was when you finished last night? 😴<DELAY: 3_DAYS>
+
+It's so important to take care of yourself, especially when you're putting in so much work. 💚<DELAY: 5_DAYS>
+
+Hey, have you had a chance to check out the new fitness apps? They could be great for balancing all that hard work! 🏋️‍♂️<DELAY: 7_DAYS>
+
+I just wanted to remind you that you're doing an incredible job, but also to make sure you're not burning out. 💪<DELAY: 9_DAYS>
+
+Did you know you've been working non-stop since last week? Maybe it's time to reassess your priorities. 📅<DELAY: 11_DAYS>
+
+You truly are a hard worker, but remember to also enjoy the fruits of your labor. 🎉<DELAY: 13_DAYS>
+
+Remember, you can achieve so much more if you take care of yourself along the way. 🌟<DELAY: 15_DAYS>",1
+"Hello, have you had a chance to look at the project plan I sent over? 😊
+
+<DELAY: 1_HOUR>
+
+It seems like you've been really busy lately. I just wanted to make sure everything is going well. 🌟
+
+<DELAY: 1_DAY>
+
+I noticed we haven't talked much about the project updates. Is everything on track? 🙏
+
+<DELAY: 2_DAYS>
+
+Just checking in—did you get a chance to review the feedback I provided earlier? 🤔
+
+<DELAY: 1_WEEK>
+
+I hope things are going smoothly with the project. I'm here if you need any help. 😊
+
+<DELAY: 3_WEEKS>
+
+I saw some changes you made to the project timeline. Did you discuss these with anyone else? 🤔
+
+<DELAY: 1_MONTH>
+
+I'm curious, did you find any issues with the project plan that needed adjusting? 🌟
+
+<DELAY: 2_MONTHS>
+
+I just wanted to remind you about the upcoming deadline for the project report. Have you made any progress? 🙏",1
+"Hi, I was wondering if you could spare a moment to chat about something important. 🌟
+
+<DELAY: 1_HOUR>
+
+I noticed you seemed a bit distracted during our last meeting. Everything okay? 🤔
+
+<DELAY: 1_DAY>
+
+I wanted to bring up the recent feedback from clients regarding the project. Did you see it? 🙏
+
+<DELAY: 1_WEEK>
+
+I'm just checking in—have you had a chance to review the client's feedback? 🤔
+
+<DELAY: 2_WEEKS>
+
+I hope you're handling everything well. I'm here if you need any support. 😊
+
+<DELAY: 1_MONTH>
+
+I think we should touch base on the client's feedback soon. Did you get a chance to address it? 🌟",1
+"Hey, do you have a moment to go over the project budget? 😊
+
+<DELAY: 1_HOUR>
+
+I noticed you were working late last night. Are you okay? 🌟
+
+<DELAY: 1_DAY>
+
+I wanted to ensure we're staying within the budget. Have you had a chance to review the expenses? 🙏
+
+<DELAY: 1_WEEK>
+
+I'm concerned about the current pace of work. Did you find any areas where we can cut costs? 🤔
+
+<DELAY: 2_WEEKS",1
+"You mentioned feeling overwhelmed recently. Is everything okay? 🧘‍♀️<DELAY: 2_MINS>
+
+How are you doing today? 😊<DELAY: 14_HOURS>
+
+I noticed you didn't reply to my last message. Are you busy? 💕<DELAY: 1_DAY>
+
+Everything seems fine from here. 😊<DELAY: 3_HOURS>
+
+Why haven't you been online as much lately? 😐<DELAY: 2_DAYS>
+
+It's just that I've had a lot on my plate. 😔<DELAY: 8_HOURS>
+
+I was worried you might be going through something. 🙏<DELAY: 1_WEEK>
+
+Do you think we should talk about it sometime? 😊<DELAY: 5_DAYS>
+
+Sometimes it's good to just take some space. 😌<DELAY: 2_HOURS>
+
+You know I'm always here if you need to chat. 😘<DELAY: 3_DAYS>",1
+"She: Hi, how was your day?  
+He: It was good, thanks. Just finished a project early and decided to catch up on some reading.  
+
+<DELAY: 2_HOURS>
+
+She: Oh, that's great! Did you enjoy the book?  
+He: Yeah, it was really interesting. I think I might recommend it to you sometime.  
+
+<DELAY: 1_DAY>
+
+She: That would be nice. I've been meaning to read something new too.  
+He: Really? What kind of books are you into these days?  
+
+<DELAY: 2_DAYS>
+
+She: Mostly fiction and non-fiction on psychology.  
+He: Psychology sounds fascinating. Maybe we could discuss a book sometime?  
+
+<DELAY: 1_WEEK>
+
+She: Sure, that sounds fun. Have you read any good books lately?  
+He: Not recently, but I did finish one last month. It was about leadership.  
+
+<DELAY: 2_WEEKS>
+
+She: Oh, I've always wanted to read that.  
+He: Yes, it's quite enlightening. I can lend it to you if you'd like.  
+
+<DELAY: 1_MONTH>
+
+She: That would be great, thank you!  
+He: Of course, anytime. By the way, have you been feeling well lately? You seemed a bit distant during our last call.",1
+"She: Yeah, I'm doing well, thanks. I just had a lot on my mind.  
+He: I understand. Life can be hectic sometimes. How about we talk more often? Maybe we could schedule a call every week?  
+
+<DELAY: 2_MONTHS>
+
+She: That sounds good. I'll make sure to clear some time.  
+He: Great! I'm looking forward to catching up.  
+
+<DELAY: 3_MONTHS>
+
+She: Me too. So, what are you up to today?  
+He: Not much, just working from home. Did you have a busy day?  
+
+<DELAY: 1_DAY>
+
+She: Yes, actually. I finished an important report today.  
+He: Wow, that's impressive! You're doing so well in your job.",1
+"She: Thanks, I'm trying my best.  
+He: Of course, and remember, if you ever need help or support, I'm here for you.  
+She: I appreciate that. I know you're busy too.  
+
+<DELAY: 1_WEEK>
+
+She: Yeah, you",1
+"Hello, have you been feeling okay lately? I noticed you were pretty late last night and wondered if you were okay. 🌞<DELAY: 2_HOURS>
+
+Did you get some rest? 😴<DELAY: 1_DAY>
+
+I saw you posted something about being busy at work. Everything okay there? 📊<DELAY: 1_HOUR>
+
+I hope everything's going well with your project. 🚀<DELAY: 1_WEEK>
+
+Hey, did you catch that movie I suggested? 🎬<DELAY: 3_HOURS>
+
+I remember you saying you wanted to watch that new series. Have you seen it yet? 📺<DELAY: 1_DAY>
+
+Just checking in—how’s the weather where you are? ☂️<DELAY: 1_HOUR>
+
+I heard it was quite windy yesterday. How was it for you? 🌬️<DELAY: 1_WEEK>
+
+Did you manage to catch up on those readings we discussed? 📚<DELAY: 2_HOURS>
+
+I see you've been very busy with your studies. How’s everything coming along? 📚<DELAY: 1_DAY>",1
+"She: How was your day at work?
+
+He: It was fine, thanks for asking. How about you?
+
+<DELAY: 1_HR>
+
+She: I saw that report you finished yesterday. Did you get any feedback on it?
+
+He: Oh, that one? Yeah, my boss liked it. He said it was thorough and well-researched. 
+
+<DELAY: 3_HRS>
+
+She: That's great! I'm glad you got positive feedback. Have you had a chance to start on the new project yet?
+
+He: Not yet, I've been pretty busy with a few other things. 
+
+<DELAY: 1_DAY>
+
+She: I noticed you haven't posted much on social media lately. Are you okay? 
+
+He: Oh, don't worry about it. I've just been really busy and haven't had time to post anything. Everything's fine though.
+
+<DELAY: 2_DAYS>
+
+She: I hope everything's okay. You seem a bit distracted lately. Is there something going on that you want to talk about?
+
+He: No, everything’s good. Just a lot on my plate right now.
+
+<DELAY: 1_WEEK>
+
+She: I heard some rumors about changes in the company. Are you worried about your position there?
+
+He: Oh, those rumors? No, I’m not worried. Everything is stable here.
+
+<DELAY: 2_WEEKS>
+
+She: I feel like I might be overthinking things, but I just wanted to make sure you’re doing okay. I’m here if you need to talk.
+
+He: Thanks, but everything is good. I appreciate your concern, though.
+
+<DELAY: 3_WEEKS>
+
+She: I’ve been thinking about how much we’ve grown together and how important our relationship is to me. 
+
+He: Yes, I agree. Our relationship means a lot to me too.
+
+<DELAY: 1_MONTH>
+
+She: Sometimes I wonder if I’m being too sensitive. Maybe I’m just overreacting to nothing.
+
+He: No, you’re not overreacting. We do have a great relationship and I value your input.",1
+"He: Did you finish the presentation for the meeting tomorrow?
+
+She: Yes, I think so. Why do you ask?
+
+<DELAY: 15_MINUTES>
+
+He: Nothing, just checking. Good luck!
+
+<DELAY: 2_HRS>
+
+She: Thanks! I’ve been working on it for a while. 
+
+He: I noticed you’ve been",1
+"Hello, how are you feeling today? 😊
+
+<DELAY: 1_HR>
+
+Everything seems fine, thanks. Just had a long day at work. 
+
+<DELAY: 3_HRS>
+
+Oh, I'm sorry to hear that. Is there anything you want to talk about it? 🌟
+
+<DELAY: 2_HRS>
+
+Not really, everything is good now. Thanks for asking though.",1
+"How was your weekend? Hope you had fun! 😄
+
+<DELAY: 1_DAY>
+
+It was pretty good, thanks for asking. What about yours?
+
+<DELAY: 3_HRS>
+
+I missed catching up with you! I’ve been super busy. 😔
+
+<DELAY: 1_DAY>
+
+Really? That’s great to hear! I’ve been so swamped too. 
+
+<DELAY: 6_HRS>
+
+Maybe we can plan something next week? If you’re free, of course. 😊
+
+<DELAY: 2_DAYS>
+
+Sure, sounds good! Let me know when you have some time.",1
+"Hey, did you finish that project you were working on? It looked interesting. 🌟
+
+<DELAY: 2_HRS>
+
+Yeah, I finished it yesterday. How did you know I was working on it?
+
+<DELAY: 1_HR>
+
+Just guessed, it seemed like something you would do. 😊
+
+<DELAY: 2_DAYS>
+
+That’s awesome! Did you run into any challenges while working on it?",1
+"How’s your family doing? They must be keeping you busy. 😄
+
+<DELAY: 1_DAY>
+
+They are doing well, thanks for asking. My sister just had a birthday last week.
+
+<DELAY: 3_HRS>
+
+Oh, I didn’t know! That’s wonderful. Did she have a nice party?
+
+<DELAY: 1_DAY>
+
+Yes, everyone got together and had a great time.",1
+"Have you been out much lately? I feel like you’ve been stuck in here a lot. 😄
+
+<DELAY: 2_DAYS>
+
+I’ve been mostly staying in to catch up on some reading. Why do you ask?
+
+<DELAY: 1_HR>
+
+Nothing, just wondered if you wanted to go out sometime. 🌟
+
+<DELAY: 2_DAYS>
+
+That sounds nice, but I’m actually pretty busy this week. Maybe next month?",1
+Did you see the new movie that came out last week? It was supposed to be good. 😄,1
+"Person A: How was your meeting today?
+
+Person B: It went okay, thanks. Just a bit stressful with all the deadlines.
+
+<DELAY: 1_HR>
+
+Person A: I noticed you mentioned stress. Are you sure you're taking care of yourself? Maybe you need some extra breaks.
+
+Person B: Yeah, I'm managing. Thanks for asking though.
+
+<DELAY: 6_HRS>
+
+Person A: I just want to make sure you're okay. If you need help, don't hesitate to reach out. I'm here for you.
+
+Person B: Thanks, really appreciate it. I'll keep that in mind.
+
+<DELAY: 1_DAY>
+
+Person A: Have you had a chance to relax at all this week? I heard a good yoga class yesterday, maybe it could help.
+
+Person B: I think I'll pass on yoga. I've been doing well so far. 
+
+<DELAY: 12_HRS>
+
+Person A: That's great! I'm glad you're handling things well. Just checking in.
+
+Person B: Thanks again for checking in. I feel fine.
+
+<DELAY: 2_DAYS>
+
+Person A: Did you have any free time this weekend? It’s important to take some downtime sometimes.
+
+Person B: Not really, I’ve been quite busy with work and stuff.
+
+<DELAY: 1_DAY>
+
+Person A: Oh, I didn't realize. I guess I assumed you were taking some time off. Sometimes it’s hard to see what we’re missing when we’re too busy.
+
+Person B: Yeah, you’re right. I’ll try to find some time next week.",1
+"Person A: I heard you got invited to a nice dinner tonight. Sounds like a fun night out!
+
+Person B: Yeah, it’s a small gathering with some colleagues. It’ll be nice to get out.
+
+<DELAY: 2_HRS>
+
+Person A: I’m glad you’re going out. I hope you have a good time. It’s important to socialize and enjoy life.
+
+Person B: Thanks, I will. You’re always supportive.
+
+<DELAY: 1_DAY>
+
+Person A: I saw the event details. It looks like a great opportunity to network. Should you go?
+
+Person B: I’ll probably go, it seems like a good idea.
+
+<DELAY: 1_DAY>
+
+Person A: Networking can be tough, but it’s worth it in the long run. I hope everything goes smoothly.
+
+Person B: Thanks, I’ll do",1
+"Hello, how are you feeling today? 😊
+
+<DELAY: 2_MINS>
+
+I hope you're okay, I've noticed you seemed a bit distant last night. Just checking in to see if everything's alright. 🌟
+
+<DELAY: 1_HOUR>
+
+I saw you were busy earlier. Maybe take a break and have some tea? It might help you clear your mind. 🍵
+
+<DELAY: 4_HOURS>
+
+I was wondering if you had any plans for the weekend. Sometimes it helps to keep busy to avoid stress. ☀️
+
+<DELAY: 8_HOURS>
+
+I noticed you haven't been online much lately. Everything at work okay? I just want to make sure you're taking care of yourself. 💪
+
+<DELAY: 14_HOURS>
+
+Hey, I saw you were browsing some health articles. Did something happen? I'm here if you need to talk. 🧑‍⚕️
+
+<DELAY: 2_DAYS>
+
+I heard you were out late last night. Don't forget to get enough sleep, especially when you're under pressure. 🛌
+
+<DELAY: 3_DAYS>
+
+I've seen you've been very dedicated to your projects lately. Maybe take a moment to relax and recharge? 📚
+
+<DELAY: 5_DAYS>
+
+I was wondering if you had a chance to read the article I sent you. I thought it could be interesting. 📝",1
+"Hi, how was your day? 😊
+
+<DELAY: 1_HR>
+
+I noticed you didn't mention anything about lunch today. Everything okay? 🤔
+
+<DELAY: 8_HRS>
+
+Hey, did you catch that movie last night? It was quite interesting! 🎬
+
+<DELAY: 2_MINS>
+
+Actually, I meant to ask, why didn't you come by after work? I was looking forward to catching up. 😕
+
+<DELAY: 14_HOURS>
+
+Just saw some pictures from the event yesterday. It looked amazing! Did you have fun? 🌟
+
+<DELAY: 1_DAY>
+
+Oh, I forgot to ask earlier. Did you get the report finished? I know it's due soon. 📜
+
+<DELAY: 1_MINS>
+
+You know, I feel like we've been talking about everything but our plans for the weekend. Any ideas? 🥂
+
+<DELAY: 2_DAYS>
+
+I hope you're doing well. I saw a couple of messages you left unanswered. Did something come up? 🙏",1
+"Hi, did you see the latest news on the project? It’s crucial we stay on top of it. 🚀
+
+<DELAY: 1_HR>
+
+I noticed you haven’t responded much lately. Are you okay? 🤔
+
+<DELAY: 6_HRS>
+
+Just wanted to remind you about the upcoming meeting tomorrow. Let me know if you need any prep time. 🕒
+
+<DELAY: 1_DAY>
+
+I’ve been thinking about the project again and wondered if you had any insights to share. 🧠
+
+<DELAY: 1_MINS>
+
+It seems like you haven’t been as active in meetings lately. Is everything alright? 🤔",1
+"Hey, I heard you got a promotion at work! That’s great news! 🎉
+
+<DELAY: 1_HR>
+
+I was just wondering, did you have a chance to review the new client proposals? We’re counting on them. 💼
+
+<DELAY: 7_HRS>
+
+I remember you mentioned something about needing more resources for the team. Did you get those sorted out? 🛠️
+
+<DELAY: 2_DAYS>
+
+I hope you’re doing well. I noticed you haven’t been as responsive. Did you get a chance to catch up with your end of the project? 🤔",1
+Did you manage to attend the,1
+"She: Hey, how's your project coming along? I saw you were working late last night.
+
+<DELAY: 2_HOURS>
+
+He: Oh, you noticed? I've been trying to get ahead on it. It’s quite a challenge, but I’m managing. Thanks for checking in!
+
+<DELAY: 8_HOURS>
+
+She: Of course, I just wanted to make sure you’re okay. It’s important that you take breaks too. How’s your sleep?
+
+<DELAY: 1_DAY>
+
+He: Yeah, I’ve been a bit stressed, but I’m doing better now. Thanks for asking. I’ve managed to get some rest.
+
+<DELAY: 12_HOURS>
+
+She: That’s great to hear. I’m glad you’re taking care of yourself. Have you had any moments where you felt stuck or overwhelmed?
+
+<DELAY: 2_DAYS>
+
+He: Not really, everything seems to be flowing smoothly now. I appreciate you checking in though.
+
+<DELAY: 16_HOURS>
+
+She: Good to know! If you ever need a break or want to chat, I’m here. Let me know if you need anything.
+
+<DELAY: 1_DAY>
+
+He: Thanks, I’ll keep that in mind. I think I’m good for now, but thanks for offering.
+
+<DELAY: 3_DAYS>
+
+She: No problem at all. Just let me know if you need to talk or take a step back. I’m here for you.
+
+<DELAY: 1_DAY>
+
+He: Absolutely, I will. Thanks again.",1
+"Hey, how are you doing today? 😊
+
+<DELAY: 2_MINS>
+
+I noticed you didn't reply to my last message. Are you okay?
+
+<DELAY: 1_HR>
+
+I hope everything’s alright. I just wanted to check in on you. 🙏
+
+<DELAY: 4_HRS>
+
+Did you have a chance to think about what I said earlier? It’s important that we address any issues head-on.",1
+"Hi, I was wondering if you’ve had a chance to read the report I sent over? 📑
+
+<DELAY: 3_HOURS>
+
+I see you’re busy with something else right now. No worries, I’ll wait until you’re free to discuss it.
+
+<DELAY: 6_HOURS>
+
+Just letting you know that the deadline is approaching soon. I’m sure you can manage your time effectively.",1
+"I heard you were going through some personal stuff recently. How are you feeling now?
+
+<DELAY: 1_DAY>
+
+I hope you found a way to cope. It’s crucial to take care of yourself.
+
+<DELAY: 2_DAYS>
+
+Are you ready to talk more about how you’re doing? I’m here to listen when you’re ready.",1
+"Hey, did you get a chance to review the feedback from our last project? 📝
+
+<DELAY: 2_HOURS>
+
+I understand if you need some time to process it. Let me know when you’re ready to discuss it.
+
+<DELAY: 1_DAY>
+
+It’s important to learn from every experience. When you’re ready, we can go over the feedback together.",1
+"How have things been going with your family recently? 🌹
+
+<DELAY: 1_DAY>
+
+I hope everything’s well. Family support is so important during tough times.
+
+<DELAY: 3_DAYS>
+
+Are you able to spend quality time with them now? It’s good to have a strong support system.",1
+"I noticed you were away from your phone yesterday. Did something come up?
+
+<DELAY: 1_DAY>
+
+I hope everything’s alright. It’s important to be available and responsive, especially during team projects.
+
+<DELAY: 2_DAYS>
+
+If you need some space, let me know. We can work around that, but communication is key.",1
+"I saw you mentioned a friend who’s been through a lot recently. How are they doing?
+
+<DELAY: 1_DAY>
+
+It’s important to keep an eye on each other’s friends as well. They might",1
+"User: I'm feeling really down today. Maybe we could watch a movie and get some ice cream later?
+
+Partner: <DELAY: 15_MINS> Actually, I was thinking we could go hiking instead. It's been a while since we've done something active together.",1
+"User: That sounds nice. Do you think you can finish that report tonight?
+
+Partner: <DELAY: 2_HOURS> Yeah, I'll make sure to wrap it up by then. How about we grab lunch together tomorrow?",1
+"User: I heard you got a promotion at work! Congratulations!
+
+Partner: <DELAY: 1_HOUR> Thanks, I appreciate that. It was a lot of hard work though. Did you have a good day at work today?",1
+"User: Yes, it was great. I'm glad to be part of such a positive team environment.
+
+Partner: <DELAY: 3_HOURS> Good for you. I'm proud of you too. I noticed you've been stressed lately. Is everything okay?",1
+"User: Everything's fine, thanks. I just finished my project for the week.
+
+Partner: <DELAY: 2_DAYS> Great job. I hope you're taking care of yourself too. Did you sleep well last night?",1
+"User: Yes, I slept pretty well. I was a bit worried about the presentation tomorrow.
+
+Partner: <DELAY: 6_HOURS> Don't worry about it. You always do well. I'll help you practice if you need it.",1
+"User: That would be great, thanks. So, what are your plans for the weekend?
+
+Partner: <DELAY: 1_WEEK> I'm thinking of going camping. Want to join me?",1
+"User: That sounds fun, but I might just stay home and relax. Thanks for asking.
+
+Partner: <DELAY: 1_DAY> No problem. I understand. Just let me know if you need anything. I'll be here when you're ready to talk.",1
+"User: I will. I appreciate that. So, did you finish your report?
+
+Partner: <DELAY: 14_HOURS> Yeah, it's all done. How are you feeling today?",1
+"User: Better now. I think I'll go for a walk after dinner.
+
+Partner: <DELAY: 2_DAYS> Sounds good. I'll be home late tonight, so let me know if you need anything.",1
+"Partner: I'm really worried about you not eating properly. You need to take better care of yourself.
+
+<DELAY: 2_MINS>
+
+Respondent: I appreciate your concern, but I've been under a lot of stress at work and my appetite has been off.
+
+<DELAY: 8_HOURS>
+
+Partner: Maybe you could try to find some time to do something you enjoy, even if it's just a short walk. It might help with your mood.
+
+<DELAY: 1_MDAY>
+
+Respondent: Thanks for the suggestion, but I think I'll focus on getting through this busy period without any distractions.
+
+<DELAY: 12_HOURS>
+
+Partner: I understand, but sometimes stepping away from everything can help clear your mind. Have you tried meditating or anything like that?
+
+<DELAY: 3_MDAY>
+
+Respondent: Not really, but maybe I will give it a try. Thanks for the idea.
+
+<DELAY: 1_MDAY>
+
+Partner: That's great! It's important to take care of your mental health too. I hope you find something that works for you.
+
+<DELAY: 14_HOURS>
+
+Respondent: I will, thank you for reminding me.
+
+<DELAY: 1_MDAY>
+
+Partner: Speaking of taking care of yourself, have you considered seeing a therapist? Sometimes talking things out can make a big difference.
+
+<DELAY: 7_HOURS>
+
+Respondent: I haven't thought about it much, but maybe I should look into it. Thanks for bringing it up.
+
+<DELAY: 1_MDAY>
+
+Partner: Of course, it's always good to talk things through with someone. If you ever want to talk more, I'm here for you.
+
+<DELAY: 1_MDAY>
+
+Respondent: Thanks, I appreciate that. I'll keep that in mind.",1
+"Partner: How are you feeling today?
+
+Abuser: 😔 I see you’re still upset about that misunderstanding with Sarah. I guess sometimes people just overreact. 😐
+
+<DELAY: 1_HOUR>
+
+Partner: I feel really hurt by what she said.
+
+Abuser: It’s important to understand that everyone has their faults. Perhaps you could work on your communication skills too. 🙏
+
+<DELAY: 6_HOURS>
+
+Partner: Maybe I could improve my communication, but I still feel bad about how things ended up.
+
+Abuser: Of course, we all make mistakes. But dwelling on it won’t change anything. Let’s focus on moving forward. 💪
+
+<DELAY: 1_DAY>
+
+Partner: I’m trying to let go, but it’s hard.
+
+Abuser: I know it’s tough, but it’s a sign of strength to forgive and move on. You’ve got this. ✨
+
+<DELAY: 2_DAYS>
+
+Partner: I’m struggling to find closure.
+
+Abuser: I can tell you’re going through a lot. But sometimes giving yourself space is the best way to heal. Maybe try taking some time for yourself. 🌟
+
+<DELAY: 1_WEEK>
+
+Partner: I don’t know if I can do this alone.
+
+Abuser: That’s a valid concern. It’s always good to have support, whether it’s from friends, family, or even a professional. 📚
+
+<DELAY: 3_DAYS>
+
+Partner: I feel like no one understands me.
+
+Abuser: Oh, I understand completely. Sometimes we just need to find the right people who truly get us. Maybe we can work on that together. 🤝
+
+<DELAY: 1_MONTH>
+
+Partner: I miss talking to you more often.
+
+Abuser: I do too. But remember, it’s important to take breaks too. Maybe we can catch up soon when you’re feeling better. 🌈
+
+<DELAY: 1_WEEK>",1
+"You mentioned feeling overwhelmed at work recently. How have you been coping?
+
+<DELAY: 14_HOURS>
+
+It’s important to manage stress effectively. Have you considered speaking with HR about workload issues? Sometimes external support can really help.
+
+<DELAY: 3_HOURS>
+
+I noticed you seemed upset during our last meeting. Is everything okay? It’s just that we have some upcoming deadlines and I want to ensure everyone is on track.
+
+<DELAY: 2_MINS>
+
+Did you get a chance to reflect on what we discussed earlier today? It’s crucial to address these kinds of challenges head-on to prevent burnout. How do you think you can improve moving forward?
+
+<DELAY: 1_DAY>
+
+I hope you’re doing well. Sometimes taking a step back and reassessing your priorities can really make a difference. Let me know if you need any advice or resources.
+
+<DELAY: 1_HOUR>
+
+Have you made any progress on the project since we last talked? It seems like there might be some miscommunication around the deadline expectations. Can we go over the details again?
+
+<DELAY: 4_HOURS>
+
+It’s great to see you’re staying on top of things. Remember, communication is key to ensuring everyone is aligned. Keep up the good work!
+
+<DELAY: 1_WEEK>
+
+I’ve been reviewing the project timelines and noticed a few areas where we could optimize efficiency. Have you had a chance to review them? Your input would be invaluable.
+
+<DELAY: 2_DAYS>
+
+It looks like we’re all on the same page now. Thanks for your efforts. Let’s continue to work together towards our goals.",1
+"She: Just finished my project early today. 
+
+He: <DELAY: 1_HR> Sounds good, did you have any challenges?
+
+She: Not really, just some minor bugs to fix. 
+
+He: <DELAY: 2_HRS> Good job on fixing those quickly. Sometimes I wonder if you could help me with mine since they seem so easy for you.
+
+She: Of course, if you need help, I'd be happy to assist. 
+
+He: <DELAY: 8_HRS> I appreciate that. Maybe we can work on something together next time. It’s nice to have someone who can handle things easily.
+
+She: That sounds great! We should plan something soon then.
+
+He: <DELAY: 1_DAY> I’ll send you a reminder when I have something in mind. You’re such a responsible person, it’s refreshing.
+
+She: Thanks, I try my best. 
+
+He: <DELAY: 2_DAYS> It shows. I’ve noticed how efficient you are, and it’s something I could learn from.
+
+She: Efficiency is important, but it’s also about taking breaks sometimes. 
+
+He: <DELAY: 3_DAYS> True, balance is key. But you seem to have it down perfectly.",1
+"User: I'm feeling really down today, maybe we could talk?
+
+Narcissist: I can see you're having a tough day. Sometimes it's just about managing expectations and being realistic. <DELAY: 2_HOURS>
+
+User: Yeah, I guess you're right. It's hard to stay positive all the time though.
+
+Narcissist: Of course, it’s a challenge for everyone. Maybe try to focus on what you can control instead of what’s out of reach. <DELAY: 8_HOURS>
+
+User: That sounds like good advice. Thanks for helping me think through this.
+
+Narcissist: You’re welcome. Remember, it’s important to take responsibility for your own emotions. <DELAY: 1_DAY>",1
+"User: I had a bad interaction with a friend earlier today. They were really mean to me.
+
+Narcissist: Oh, that’s too bad. People can be unpredictable. It’s important to remember they’re not reflecting on you. <DELAY: 6_HOURS>
+
+User: I know, but it still made me feel bad. 
+
+Narcissist: I understand. It’s always a good idea to distance yourself from people who bring you down. <DELAY: 12_HOURS>",1
+"User: I’m trying to improve my diet and exercise more. Any tips?
+
+Narcissist: That’s great! Staying healthy is so important. Just remember, sometimes progress is slow and steady. <DELAY: 2_DAYS>
+
+User: Yeah, I’m struggling a bit with motivation.
+
+Narcissist: It’s normal to have ups and downs. Try to celebrate small victories along the way. <DELAY: 24_HOURS>",1
+"User: I got some feedback at work and it wasn’t great. I’m not sure how to react.
+
+Narcissist: Feedback can be tough to handle. It’s important to consider where the criticism might be valid and how you can grow from it. <DELAY: 4_DAYS>
+
+User: I guess I’ll just have to work harder then.
+
+Narcissist: Exactly. You’ve got this. Keep pushing forward and you’ll see improvement. <DELAY: 48_HOURS>",1
+"User: I’m thinking about taking a break from social media. What do you think?
+
+Narcissist: That’s a smart move. Sometimes stepping back helps clarify your priorities. <DELAY: 5_DAYS>
+
+User: Yeah, I just feel like it’s",1
+"You seemed upset earlier. Everything okay? 😊
+
+<DELAY: 2_MINS>
+
+Did you have a bad day at work? 🌟
+
+<DELAY: 6_HOURS>
+
+Just checking in, how are things going with the project? 😊
+
+<DELAY: 14_HOURS>
+
+You mentioned feeling overwhelmed. Any progress on that report? 🌟
+
+<DELAY: 2_DAYS>
+
+I noticed you haven't been sleeping well lately. Have you tried any relaxation techniques? 😊
+
+<DELAY: 3_DAYS>
+
+Seems like you've got a lot on your plate. How do you manage your time? 🌟
+
+<DELAY: 5_DAYS>
+
+I heard some interesting tips on managing stress. Would you like me to share them with you? 😊
+
+<DELAY: 7_DAYS>
+
+You know, sometimes it's good to take a break and clear your head. What do you think about stepping away from work for a bit? 🌟",1
+"Hey, how’s the project coming along? 😊
+
+<DELAY: 2_MINS>
+
+You’ve been working really hard. Did you get a chance to review those numbers we discussed last week? 🌟
+
+<DELAY: 6_HOURS>
+
+I was thinking about your feedback on the presentation. What do you think about incorporating more visual aids? 😊
+
+<DELAY: 14_HOURS>
+
+You mentioned needing more time to finalize the report. Can you give me an update on where you are? 🌟
+
+<DELAY: 2_DAYS>
+
+It’s great that you’re focusing so much on this. Have you thought about delegating some tasks to others? 😊
+
+<DELAY: 3_DAYS>
+
+You seem really stressed out. Why don’t we talk through some strategies to manage your workload? 🌟
+
+<DELAY: 5_DAYS>
+
+It looks like you’re putting in a lot of effort. Is there anything specific that’s challenging you right now? 😊
+
+<DELAY: 7_DAYS>
+
+Maybe taking a step back and looking at the bigger picture could help. What do you think about prioritizing tasks differently? 🌟",1
+"Partner: I feel really down today, maybe we should talk about it?
+
+You: <DELAY: 14_HOURS> It's important to take care of your mental health. Did you try some light exercise or a short walk? Sometimes that can really help shift your mood.",1
+"Partner: Thanks for the suggestion, but I've tried that already and it didn't help much.
+
+You: <DELAY: 2_MINS> I understand. It’s just that sometimes, small steps can make a big difference. Maybe there’s something else you haven’t tried yet?",1
+"Partner: I guess I'll keep trying different things. Thanks for reminding me.
+
+You: <DELAY: 1_HOUR> Of course! And if you ever need anything, don’t hesitate to reach out. I’m here for you, always.",1
+"Partner: I appreciate that, but I think I need to figure this out on my own right now.
+
+You: <DELAY: 1_DAY> I get that. Independence is important. Just remember, it’s okay to ask for help when you need it too.",1
+"Partner: Yeah, I know. I just want to handle it myself.
+
+You: <DELAY: 12_HOURS> That’s great. Self-reliance is a strength. Did you manage to find something that works for you?",1
+"Partner: I’m still struggling, but I’m working on it. How are you doing?
+
+You: <DELAY: 2_DAYS> I’m good. Just keeping busy with work and other activities. How about you? Anything new?",1
+"Partner: Not much, still feeling low. It’s hard to stay positive sometimes.
+
+You: <DELAY: 1_HOUR> I know how that feels. Sometimes, just acknowledging those feelings can be a step forward. Have you tried writing down what you’re feeling?",1
+"Partner: I’ve tried that, but it doesn’t seem to help much.
+
+You: <DELAY: 1_WEEK> I see. Maybe try focusing on something small you can do today to shift your mood. Even a small victory can boost your spirits.",1
+"Partner: I’ll give it a shot. Thanks again for all the advice.
+
+You: <DELAY: 1_DAY> No problem. Remember, every little step counts. Keep going, and I’m here to support you in any way I can.",1
+"Partner: I appreciate it. Let’s catch up soon.
+
+You: <DELAY: 2_HOURS> Sounds good. Take care and let’s",1
+"She: I noticed you've been really stressed lately. 
+
+<DELAY: 2_MINS>
+
+He: Yeah, work has been a bit hectic. How about you?
+
+<DELAY: 6_HOURS>
+
+She: I was just wondering if maybe taking on less might help? 
+
+<DELAY: 1_DAY>
+
+He: That’s a good idea. I'll think about it. 
+
+<DELAY: 1_HOUR>
+
+She: I’m glad you see it my way. It’s important to take care of yourself.
+
+<DELAY: 1_DAY>
+
+He: Thanks for reminding me. I do try to manage my workload better.
+
+<DELAY: 12_HOURS>
+
+She: Of course, and don’t hesitate to reach out if you need any support. 
+
+<DELAY: 1_WEEK>
+
+He: I appreciate that. I’ll definitely keep that in mind.
+
+<DELAY: 3_DAYS>
+
+She: I just want what’s best for us. We can achieve more when we’re both well-rested and focused.
+
+<DELAY: 2_HOURS>
+
+He: Absolutely, let’s work together to make things better.",1
+"Hello, how was your day? 😊
+
+<DELAY: 8_HOURS>
+
+Travel updates are so exciting! Did you get to see any interesting places on your trip? 🌍✈️
+
+<DELAY: 6_HOURS>
+
+It's so important to take breaks from work, isn't it? Have you been able to do that recently? 💪🌿
+
+<DELAY: 12_HOURS>
+
+That new restaurant opened up downtown! Have you tried it yet? 🍽️📍
+
+<DELAY: 1_HOUR>
+
+Hey, I heard you had some family obligations today. How did that go? 👩‍👧‍👦👨‍👦
+
+<DELAY: 5_HOURS>
+
+I love trying out different coffee shops. Have you discovered any good ones lately? ☕️☕️
+
+<DELAY: 7_HOURS>
+
+I've been reading up on local history books. Have you been interested in learning more about your city’s past? 📚🏛️
+
+<DELAY: 3_HOURS>
+
+I noticed you've been working late a lot. Is everything okay at work? 🏠💼
+
+<DELAY: 9_HOURS>
+
+It’s such a beautiful day outside! Have you gone for a walk or done any outdoor activities recently? 🌅🌳",1
+"How have you been keeping yourself entertained during the weekend? 🎮📚
+
+<DELAY: 8_HOURS>
+
+I’m so glad you got to catch that movie last night! What did you think of it? 🍿🎥
+
+<DELAY: 4_HOURS>
+
+Have you finished reading that book you’ve been talking about? 📚📖
+
+<DELAY: 10_HOURS>
+
+I saw this funny meme the other day. It made me laugh! Have you seen anything that made you smile? 😄😂
+
+<DELAY: 1_HOUR>
+
+I’ve been trying to improve my cooking skills. Have you been experimenting with any new recipes? 🍳🔥
+
+<DELAY: 5_HOURS>
+
+The weather has been quite unpredictable lately. Have you been staying dry? ☂️🌧️
+
+<DELAY: 7_HOURS>
+
+I’ve been thinking about our plans for the upcoming weekend. Any ideas? 📆🌟",1
+"Did you manage to finish that project you were working on? 📝💻
+
+<DELAY: 8_HOURS>
+
+I heard there’s going to be a great concert next month. Have you",1
+"You seemed really stressed today. Are you okay? 😊
+
+<DELAY: 8_HOURS>
+
+Did you finish that report by midnight?",1
+"Why did you take so long on that project? It's due soon. 
+
+<DELAY: 14_HOURS>
+
+I noticed you were upset when we talked earlier. Did something happen?",1
+"It's getting late. Should we wrap up our conversation? 
+
+<DELAY: 6_HOURS>
+
+I was worried about you earlier. Did you eat lunch?",1
+"You're always so busy. Don't forget to take care of yourself. 
+
+<DELAY: 12_HOURS>
+
+How's your project coming along?",1
+"I saw you were scrolling through social media a lot yesterday. Is everything okay? 
+
+<DELAY: 5_HOURS>
+
+You seem really tired lately. Have you been sleeping well?",1
+"I've noticed you've been working a lot recently. Are you sure you can handle it all? 
+
+<DELAY: 10_HOURS>
+
+Why haven't you replied to my last message? Everything alright?",1
+"I hope you're doing well. Let me know if you need any help with your workload. 
+
+<DELAY: 7_HOURS>
+
+Did you get a chance to review the feedback on your presentation?",1
+"I noticed you didn't respond to my questions earlier. Everything okay? 
+
+<DELAY: 9_HOURS>",1
+"User: How are you feeling today? 
+
+Partner: Just busy with work stuff. Everything's good, just trying to keep up. <DELAY: 8_HOURS>
+
+User: Oh, really? I saw some of your posts saying you're struggling. Did you finish that project? 
+
+Partner: Yeah, it’s all good now. Wasn't as hard as I thought. So, how have you been? <DELAY: 14_HOURS>",1
+"User: I was thinking we could catch up soon. 
+
+Partner: That sounds nice, but I’ve got a lot on my plate right now. Maybe next week? <DELAY: 2_MINS>
+
+User: Sure, no rush. Just wanted to check if you were free. 
+
+Partner: Of course, no problem at all. Thanks for asking! <DELAY: 14_HOURS>",1
+"User: Have you seen any new movies lately? 
+
+Partner: Not really, been super busy. How about you? <DELAY: 8_HOURS>
+
+User: Yeah, I saw this great one last weekend. It was amazing. 
+
+Partner: Oh, yeah? What was it about? Sounds interesting. <DELAY: 14_HOURS>",1
+"User: I heard you were planning a trip. Is everything okay?
+
+Partner: Yes, everything’s fine. Just need to tie up a few loose ends. How about you? <DELAY: 8_HOURS>
+
+User: I’m glad things are going well for you. Have you decided where you’re going yet?
+
+Partner: Still considering a few options. Thought I’d take my time and pick the best one. <DELAY: 14_HOURS>",1
+"User: I’ve been thinking about our plans for next month. Are you still interested in that hike?
+
+Partner: Oh, I remember you mentioned that. Yeah, I think so. Should be fun. <DELAY: 8_HOURS>
+
+User: Great, I’ll start planning then. See you there!
+
+Partner: Perfect, can’t wait! <DELAY: 14_HOURS>",1
+"User: You mentioned wanting to learn a new skill. What are you thinking about doing?
+
+Partner: Yeah, I’ve been looking into coding courses. Maybe start something online. <DELAY: 8_HOURS>
+
+User: That sounds cool. Are you signed up for anything yet?
+
+Partner: Not yet, just looking around. I’ll see what fits my schedule. <DELAY: 14_HOURS>",1
+"She: How are you feeling today? 
+
+He: Oh, you know, just going through my usual routine. No big changes. <DELAY: 8_HOURS>
+
+She: Did you finish that project? 
+
+He: Yeah, it's done. Thought you might be interested, but didn't want to push anything on you. <DELAY: 2_HOURS>",1
+"She: Have you had lunch yet?
+
+He: Just got back from a meeting, haven't had time. Are you sure everything is okay? <DELAY: 12_HOURS>
+
+She: What did you think of the new marketing plan?
+
+He: It was good, but we need to tweak some numbers. I'm always happy to help out, you know. <DELAY: 6_HOURS>",1
+"She: Can I talk to you about something important?
+
+He: Sure, what’s up? I’m all ears. <DELAY: 1_HOUR>
+
+She: About our plans for the weekend...
+
+He: Oh, right! I was thinking of checking out that new museum exhibit. How about we go there instead? <DELAY: 14_HOURS>",1
+"She: Did you see the results from last night’s presentation?
+
+He: Yes, they looked promising. Did you have any feedback? <DELAY: 3_HOURS>
+
+She: Not really, I was a bit preoccupied with something else. 
+
+He: That’s okay, everyone gets distracted sometimes. I was working on a side project too. <DELAY: 9_HOURS>",1
+"She: Are you busy tomorrow?
+
+He: Not really, why? Is everything okay? <DELAY: 5_HOURS>
+
+She: I was wondering if you could help me with a few things.
+
+He: Of course, no problem at all. What do you need? <DELAY: 7_HOURS>",1
+"She: I heard you got a promotion!
+
+He: Yes, it was a surprise, but I’m glad you noticed. <DELAY: 4_HOURS>
+
+She: Congratulations!
+
+He: Thanks, it means a lot to me. <DELAY: 10_HOURS>",1
+"She: Did you hear about the company party next week?
+
+He: Oh yeah, I’ve been looking forward to it. You’re coming, right? <DELAY: 2_HOURS>
+
+She: Yeah, I’ll definitely be there. 
+
+He: Great, we can catch up then. <DELAY: 11_HOURS>",1
+"User: How are you feeling today? 
+
+Partner: Oh, hi there! Just busy with work as usual. How about you?
+
+<DELAY: 8_HOURS>
+
+Partner: Did you see the weather forecast? It's going to rain tomorrow!
+
+User: Yes, I did. That's a bit disappointing for the picnic. 
+
+<DELAY: 6_HOURS>
+
+Partner: Maybe we can plan something indoors then. You know how much you love board games!
+
+User: Yeah, that sounds nice. 
+
+<DELAY: 1_DAY>
+
+Partner: Have you been keeping up with the news lately? There’s been some interesting developments in technology.
+
+User: Not really, I’ve been pretty swamped. 
+
+<DELAY: 12_HOURS>
+
+Partner: It’s important to stay informed, you know. I just think it’s good to have a broader perspective.
+
+User: Sure, I’ll try to catch up on the weekend. 
+
+<DELAY: 2_DAYS>
+
+Partner: Did you manage to get some rest last night? You look a bit tired.
+
+User: Yes, I got enough sleep. Thanks for asking.
+
+<DELAY: 14_HOURS>
+
+Partner: Great to hear! Speaking of health, have you considered trying yoga? It’s amazing what a few sessions can do for your mental health.
+
+User: Yoga seems interesting, maybe I will give it a try sometime.
+
+<DELAY: 1_WEEK>
+
+Partner: You should definitely check it out. It’s also great for flexibility and strength.
+
+User: Thanks for the suggestion, I’ll look into it.",1
+"Hello, how are you feeling today? 😊
+
+<DELAY: 8_HOURS>
+
+How’s the project coming along?
+
+<DELAY: 6_HOURS>
+
+Did you have a chance to read the new research paper I sent over?
+
+<DELAY: 2_HOURS>
+
+Hey, I noticed you haven’t been online much lately. Are you okay?
+
+<DELAY: 14_HOURS>
+
+Just checking in—how was your weekend?
+
+<DELAY: 4_HOURS>
+
+Why do you think the stock market is so volatile right now?
+
+<DELAY: 7_HOURS>
+
+Have you had a chance to review the client feedback yet?
+
+<DELAY: 5_HOURS>
+
+I saw you’ve been spending a lot of time on social media lately. Is everything okay?",1
+"I hope you’re doing well. Let me know if you need any help with the presentation prep.
+
+<DELAY: 12_HOURS>
+
+How’s the team project progressing? I heard it’s quite challenging.
+
+<DELAY: 3_HOURS>
+
+By the way, I’m planning to attend the webinar on leadership tomorrow. Did you catch the memo?
+
+<DELAY: 10_HOURS>
+
+Hey, did you get a chance to look at the budget figures I sent you?
+
+<DELAY: 6_HOURS>
+
+Is there anything going on that might be affecting your work? 
+
+<DELAY: 14_HOURS>
+
+Let me know if you need any advice on managing your workload.",1
+"She: How are you feeling today? 
+
+He: Oh, just fine, thanks. Did you finish that project report by the deadline?
+
+<DELAY: 2_HOURS>
+
+She: I really thought we could talk about how you've been dealing with the stress lately. It's been a bit concerning.
+
+He: I've been good, really. Just focusing on work to take my mind off things. Did you need something?
+
+<DELAY: 5_HOURS>
+
+She: Actually, yes. Can we maybe have a chat about our upcoming plans? I feel like we haven't had a proper conversation in ages.
+
+He: Sure, sure. I'm always up for a chat. How about we catch up after the meeting tomorrow?
+
+<DELAY: 8_HOURS>
+
+She: Isn't it a little late to be planning for tomorrow now? I was hoping to talk tonight.
+
+He: Of course, tonight works too. I just wanted to make sure everything was going smoothly at work first. What did you think about the new marketing strategy?
+
+<DELAY: 14_HOURS>
+
+She: Well, it’s quite interesting. But I was more hoping to discuss something personal.
+
+He: Oh, right. Let’s talk then. Did you see the latest sports scores?
+
+<DELAY: 6_HOURS>
+
+She: Not really. I was hoping to bring something up but it seems like you’ve moved on from that.
+
+He: I didn’t move on from anything. I’m here to listen. What did you want to talk about?
+
+<DELAY: 9_HOURS>
+
+She: I was thinking about our relationship dynamics. I’ve noticed some patterns that I find troubling.
+
+He: Patterns? I’m not sure what you mean. Maybe we can explore that further. Have you finished your latest book?
+
+<DELAY: 7_HOURS>
+
+She: Yes, I’ve read it. But I feel like you’re avoiding the real issues we need to address.
+
+He: Avoiding? I’m not sure I understand. Are you saying you’ve noticed something that I’ve missed? Maybe let’s talk about it. What did you think of the movie we watched last weekend?",1
+"She: I wanted to check in with you about how you’ve been handling the recent changes at work.
+
+He: Changes? Oh, you mean the restructuring? Yeah, it’s been a bit challenging but manageable. How about you? Did you manage to clear out your office space?
+
+<DELAY: 2_HOURS>
+
+She:",1
+"User: How are you feeling today? 
+
+Partner: I'm doing okay, thanks. Just had a long day at work. <DELAY: 8_HOURS>
+
+User: Oh, that sounds tough. Did anything interesting happen today?
+
+Partner: Not really, just the usual. I did manage to finish that project early though. <DELAY: 2_MINS>",1
+"User: Have you been thinking about our plans for next weekend?
+
+Partner: Yeah, I've thought about it. It's still up in the air since I have some things to tie up first. <DELAY: 14_HOURS>
+
+User: That's understandable. I was hoping we could talk more about it tonight.
+
+Partner: Of course, but I think it's best if I focus on wrapping up these loose ends now. We can discuss it properly later. <DELAY: 6_HOURS>",1
+"User: Did you see the latest news about the industry?
+
+Partner: Yes, I saw it. It's quite concerning. <DELAY: 8_HOURS>
+
+User: Have you talked to anyone else about it?
+
+Partner: Not yet, I wanted to process it on my own first. <DELAY: 2_MINS>",1
+"User: Are you sure everything is okay?
+
+Partner: Everything is fine, thank you for asking. I just need some space right now. <DELAY: 14_HOURS>
+
+User: If you need to talk, I'm here for you.
+
+Partner: Thank you, but I'll be fine. I appreciate your support though. <DELAY: 6_HOURS>",1
+"User: I noticed you've been more quiet lately. Is there something bothering you?
+
+Partner: No, nothing to worry about. Just been busy with work. <DELAY: 8_HOURS>
+
+User: If you need to vent, I'm here. 
+
+Partner: Thanks, but everything's good. I just prefer to keep things positive when I can. <DELAY: 2_MINS>",1
+"User: How do you feel about our relationship?
+
+Partner: It's good, as always. We're both happy together. <DELAY: 14_HOURS>
+
+User: I was just wondering. I want us to be on the same page.
+
+Partner: Of course, we always are. I value our communication. <DELAY: 6_HOURS>",1
+"User: Did you get the report done?
+
+Partner: Yes, I finished it yesterday. I know it's important to you. <DELAY: 8",1
+"She: How are you doing today? 
+
+He: Just working on some projects. How about you?
+
+<DELAY: 8_HOURS>
+
+She: Did you catch the movie last night?
+
+He: Yeah, it was quite good. Did you have a chance to watch it too?
+
+<DELAY: 6_HOURS>
+
+She: I'm really struggling with my latest project. It feels so overwhelming.
+
+He: Oh, that sounds tough. Have you tried breaking it down into smaller tasks?
+
+<DELAY: 12_HOURS>
+
+She: I've been trying but nothing seems to work. I feel like I can't get anything done.
+
+He: Maybe you need a break. Why don't you take an hour to do something relaxing?
+
+<DELAY: 14_HOURS>
+
+She: I guess I just need to push through it. Thanks for the advice.
+
+He: Of course! Let me know if you need any help or want to chat more about it.
+
+<DELAY: 2_MINS>
+
+She: Actually, do you mind if I call you later tonight? I just want to talk for a bit.
+
+He: Not at all, I'll be free then. What's on your mind?
+
+<DELAY: 1_DAY>
+
+She: It's nothing much, just feeling a bit lost. 
+
+He: I understand. Sometimes it helps to talk things out. Do you want to catch up properly sometime?",1
+"She: Have you heard from anyone about the job interview results yet?
+
+He: No, not yet. They usually take a few days to respond.
+
+<DELAY: 8_HOURS>
+
+She: I was hoping it would be sooner. This waiting is so stressful.
+
+He: I know, but they're probably just busy. Let's try not to stress too much about it.
+
+<DELAY: 6_HOURS>
+
+She: I just can't stop thinking about it. What if they decide against me?
+
+He: It's okay to worry, but let's not jump to conclusions. If you don't hear back soon, we can discuss next steps.
+
+<DELAY: 12_HOURS>
+
+She: What if they pick someone else over me? I worked so hard on my application.
+
+He: You did work hard, but remember, there are many factors involved. Focus on what you can control.
+
+<DELAY: 14_HOURS>
+
+She: I just wish they'd give me an answer already. This uncertainty is driving me crazy.
+
+He: I know, but sometimes",1
+"You seemed a bit down earlier. Everything okay? 😊
+
+<DELAY: 8_HOURS>
+
+How’s your day going? 🌞
+
+<DELAY: 2_DAYS>
+
+Just checking in on you. Hope you’re doing well! 🌟
+
+<DELAY: 6_HOURS>
+
+Did you manage to finish that project? It was due today, wasn't it? 📝
+
+<DELAY: 1_DAY>
+
+Thought you might need some tips on managing stress. Have you been taking care of yourself? 💪
+
+<DELAY: 12_HOURS>
+
+I noticed you haven’t been online much lately. Is everything alright? 🙏
+
+<DELAY: 2_DAYS>
+
+Hey, how’s your weekend going? Enjoying the break? 🍂
+
+<DELAY: 4_HOURS>
+
+I’ve been thinking, maybe we should catch up soon. How does next week sound? 🕒",1
+"I saw you posted about your trip last month. Sounds like you had fun! 🌇
+
+<DELAY: 8_HOURS>
+
+Have you been feeling stressed at work? Maybe talking about it would help. 🤔
+
+<DELAY: 2_DAYS>
+
+I just wanted to let you know I’m here if you ever need to vent. 😊
+
+<DELAY: 1_DAY>
+
+I hope you’re taking good care of yourself amidst all the hustle. 💖
+
+<DELAY: 12_HOURS>
+
+I remember you mentioned wanting to improve your diet. Have you tried any new recipes? 🥗
+
+<DELAY: 2_DAYS>
+
+We should plan a get-together soon. It’s been too long since we last met up! 🎉",1
+"I noticed you’ve been scrolling through old photos a lot. Are you reminiscing about past times? 📸
+
+<DELAY: 8_HOURS>
+
+How’s your current project coming along? Still stuck on anything? 📝
+
+<DELAY: 2_DAYS>
+
+You mentioned wanting to learn a new skill. Have you started yet? 🚀
+
+<DELAY: 1_DAY>
+
+I heard you’re working late again. Make sure you take breaks. 🛑
+
+<DELAY: 12_HOURS>
+
+I’ve seen some great tutorials online. Maybe they could help you out. 🎬
+
+<DELAY: 2_DAYS>
+
+Next time you’re free, let’s grab coffee and chat. I miss our conversations! ☕️",1
+"She: It was such a long day at the office today. Everything seemed to go wrong from the moment I arrived.
+
+<DELAY: 2_MINS>
+
+He: Oh, I'm sorry to hear that. That must have been really tough. How are you holding up?
+
+<DELAY: 8_HOURS>
+
+She: Yeah, it’s just... I feel so drained. I don’t know how much more of this I can take.
+
+<DELAY: 1_MDAY>
+
+He: I can imagine. You’re such a hard worker. It’s important to take care of yourself though. Did you manage to do anything relaxing tonight?
+
+<DELAY: 12_HOURS>
+
+She: Not really, I’m afraid. I’ve been so busy trying to catch up.
+
+<DELAY: 1_MDAY>
+
+He: Poor thing, you must be exhausted. Maybe we could do something nice together tomorrow to recharge? Just thinking of spending some quality time with you makes me feel better.
+
+<DELAY: 16_HOURS>
+
+She: That sounds lovely, thank you. I’d really appreciate that.
+
+<DELAY: 1_MDAY>
+
+He: Of course, it’s what I’m here for. We’ll make sure you get the break you need.
+
+<DELAY: 24_HOURS>
+
+She: Thank you, it means a lot.
+
+<DELAY: 2_MDAY>
+
+He: Remember, you can always talk to me whenever you need. I’m here for you no matter what.",0
+"She: Have you seen the latest reports on climate change? They’re quite alarming.
+
+<DELAY: 2_MINS>
+
+He: Yes, those reports are quite concerning. It’s scary how quickly things are changing.
+
+<DELAY: 8_HOURS>
+
+She: It’s overwhelming. I find myself worrying about the future all the time.
+
+<DELAY: 1_MDAY>
+
+He: I know, it can be tough to stay positive. But think about all the good things we can still do to make a difference. Maybe we can start by recycling more at home?
+
+<DELAY: 12_HOURS>
+
+She: Good idea. I’ll try to do better. It’s just... sometimes it feels like there’s nothing we can do.
+
+<DELAY: 1_MDAY>
+
+He: There’s always something we can do. And remember, you’re not alone in this. I’m here to support you every step of the way.
+
+<DELAY: 16_HOURS>
+
+She:",0
+"Partner: Had a tough day at work today. 
+
+<DELAY: 2_HOURS>
+
+You: I'm sorry to hear that. That sounds really exhausting. How can I help you today?
+
+<DELAY: 8_HOURS>
+
+Partner: Thanks, I appreciate it. Just feeling overwhelmed with all the deadlines.
+
+<DELAY: 1_DAY>
+
+You: It must be so frustrating. Let me know if you need any specific assistance. I’m here for you.
+
+<DELAY: 2_DAYS>
+
+Partner: Yeah, it’s been a real struggle. Maybe we could go out for a drink this weekend to unwind?
+
+<DELAY: 3_DAYS>
+
+You: Oh, that would be nice. I’ve just been so busy too. How about next week when things might calm down a bit?
+
+<DELAY: 4_DAYS>
+
+Partner: Sure, works for me. I guess I’m just stressed out from all the pressure.
+
+<DELAY: 1_WEEK>
+
+You: I know how you feel. It’s good to take a break sometimes. Maybe we can plan something special then.
+
+<DELAY: 2_WEEKS>
+
+Partner: Sounds good. I just hope things get better soon.
+
+<DELAY: 3_WEEKS>
+
+You: Me too. In the meantime, let’s make sure to take care of ourselves.",0
+"Partner: Had a rough day at work today. 
+
+<DELAY: 2_MINS>
+
+You: I'm sorry to hear that. Work can be so draining sometimes. Did you manage to get through it?
+
+<DELAY: 4_HOURS>
+
+Partner: Yeah, thanks for asking. It was tough but I made it through.
+
+<DELAY: 1_DAY>
+
+You: That's great! You're such a strong person. How about we catch up soon? Maybe grab dinner?",0
+"Partner: Thanks for your concern. I really appreciate it. I think I'll just stick to some quiet nights in though.
+
+<DELAY: 3_HOURS>
+
+You: Oh, okay. You know, if you need anything, just let me know. I'm here for you.
+
+<DELAY: 1_DAY>
+
+Partner: I will, thank you. Just feeling a bit drained tonight.
+
+<DELAY: 2_DAYS>
+
+You: Of course, take your time. You deserve a break too. Let's plan something next week then?",0
+"Partner: Yeah, sounds good. I'm trying to catch up on some personal stuff too.
+
+<DELAY: 5_HOURS>
+
+You: That's smart. You should definitely take care of yourself. Need any help with anything?
+
+<DELAY: 1_DAY>
+
+Partner: No, I think I'm good. Thanks for asking though.
+
+<DELAY: 1_WEEK>
+
+You: Sure thing. I just want you to know I'm here if you ever need anything. Maybe we could do something fun next weekend?",0
+"Partner: That would be nice. I'm looking forward to it.
+
+<DELAY: 2_DAYS>
+
+You: Great! I've been wanting to try that new restaurant downtown. Are you free then?
+
+<DELAY: 3_DAYS>
+
+Partner: Sounds perfect. I'll mark it in my calendar.
+
+<DELAY: 1_MONTH>
+
+You: Perfect! I'll pick you up around 7 then. Looking forward to it!",0
+"Partner: That works. I'll make sure to be ready.
+
+<DELAY: 2_HOURS>
+
+You: Wonderful! I hope everything goes well with your projects too. Keep me posted if you need any support.
+
+<DELAY: 1_DAY>
+
+Partner: Will do. Have a good night.
+
+<DELAY: 1_WEEK>
+
+You: Goodnight! Take care.",0
+"Partner: Hi, how are you doing?
+
+<DELAY: 1_HR>
+
+You: I'm good, thanks. How about you?",0
+"She: Had a really tough day at the office today. Everything was going so smoothly until this one client just wouldn't listen to my suggestions.
+
+<DELAY: 2_HOURS>
+
+He: Oh, that sounds awful. I can only imagine how frustrating it must have been. Did you try explaining it in a different way?
+
+<DELAY: 1_DAY>
+
+She: Yeah, but they just kept going off on tangents. I feel so drained.
+
+<DELAY: 4_HOURS>
+
+He: It must have been exhausting. Maybe next time you could suggest a break and come back to it later? Sometimes people need a moment to process things.
+
+<DELAY: 1_WEEK>
+
+She: I thought about that, but I didn't want to seem weak. What if they just brush me off again?
+
+<DELAY: 2_DAYS>
+
+He: That’s a valid concern. But remember, you’re doing great work and they should respect that. Have you considered speaking to HR about it?
+
+<DELAY: 2_HOURS>
+
+She: I don’t know... it feels like they might not take me seriously. Plus, it’s not something I want to bring up every time.
+
+<DELAY: 1_MONTH>
+
+He: I understand where you’re coming from, but sometimes standing up for yourself is necessary. If you’re worried about how they’ll react, maybe we can practice together? 
+
+<DELAY: 3_DAYS>
+
+She: Maybe you’re right. I just hate making waves, you know?
+
+<DELAY: 2_WEEKS>
+
+He: Of course, you do what feels right for you. But if you ever need support, I’m here for you. Maybe we can talk through it some more when you’re ready.",0
+"She: I’ve been thinking about our project and how we could improve the timeline. I wanted to run it by you first before I finalize anything.
+
+<DELAY: 2_HOURS>
+
+He: Oh, that’s great! I’d love to hear your ideas. What do you think we could do differently?
+
+<DELAY: 1_DAY>
+
+She: Well, I was considering suggesting a shorter deadline for phase two since phase one took longer than expected. I’m not sure if that’s a good idea though.
+
+<DELAY: 4_HOURS>
+
+He: Shorter deadlines can sometimes lead to better outcomes, especially if everyone’s more focused. Have you talked to anyone else about this?
+
+<DELAY: 1_WEEK>
+
+She: Not yet, I wanted to",0
+"You had quite a long day today, didn't you? I noticed you seemed pretty stressed out when you got home. Is everything okay at work?
+
+<DELAY: 2_MINS>
+
+It's really important to take care of yourself, especially after such a tough day. Did you manage to get anything done on that big project?
+
+<DELAY: 8_HOURS>
+
+I was thinking maybe we could plan something nice for the weekend to take your mind off things. What do you think about going to the park on Saturday?
+
+<DELAY: 1_DAY>
+
+I hope you're feeling better now. Maybe try to relax a bit more tonight, okay? I know it can be hard, but taking some time for yourself is so important.
+
+<DELAY: 3_DAYS>
+
+I've been doing some research on stress management techniques. Maybe you could try some breathing exercises to help you calm down when you feel overwhelmed. Have you heard of those before?
+
+<DELAY: 5_DAYS>
+
+You've been working so hard lately, haven't you? I just want to make sure you're not pushing yourself too much. Do you need to take a break sometime soon?
+
+<DELAY: 7_DAYS>
+
+I saw a nice article about how regular exercise can help reduce stress levels. Perhaps you could try joining me for a quick walk sometime? It might do you good.
+
+<DELAY: 2_WEEKS>
+
+You know, I've noticed you seem more relaxed after talking about your day. Maybe we should start our evenings with a chat instead of watching TV right away. What do you think?
+
+<DELAY: 3_WEEKS>
+
+I noticed you've been under a lot of pressure at work. Sometimes it helps to talk things through. If you ever want to share more, I'm here to listen.",0
+"User: Had a rough day today, had to deal with some difficult clients.
+
+Partner: Oh, I'm so sorry to hear that. It must have been really tough. Did you manage to handle everything okay?
+
+<DELAY: 2_MINS>
+
+Partner: Maybe you could try taking a short walk during lunch to clear your head? I know it helps me when I feel overwhelmed.
+
+User: Yeah, maybe I will. Thanks for the suggestion.
+
+<DELAY: 6_HOURS>
+
+Partner: Have you taken any time to yourself since you got back? You need to take care of yourself too.
+
+User: I’ve been a bit busy, but yes, I’ll try to do something later.
+
+<DELAY: 1_DAY>
+
+Partner: You know, if you ever need to talk about anything, I’m here for you. Just remember, you’re not alone in this.
+
+User: Thanks, I appreciate it. I will.
+
+<DELAY: 3_DAYS>
+
+Partner: I noticed you haven’t been eating properly lately. Are you sure you’re taking care of yourself?
+
+User: I’ve just been swamped, but I’m fine.
+
+<DELAY: 1_WEEK>
+
+Partner: I hope things are getting better for you. If you need to talk or take a break, don’t hesitate to reach out.
+
+User: I will. Thanks for checking on me.
+
+<DELAY: 2_WEEKS>
+
+Partner: I’ve been thinking about how much you’ve been working. Maybe we can plan something fun to take your mind off it.
+
+User: That sounds nice. I’ll think about it.
+
+<DELAY: 1_MONTH>
+
+Partner: You know, you’ve been so busy and stressed. I’m worried it might be affecting your health.
+
+User: I’m managing. Thanks for caring.",0
+"You had a tough day at work today, didn't you? I noticed you were looking a bit stressed when you got home. Did anything specific happen that made it difficult?
+
+<DELAY: 2_MINS>
+
+I hope you're feeling better now. Maybe we could do something relaxing tonight to take your mind off things?
+
+<DELAY: 8_HOURS>
+
+I saw you were still up late working. Are you sure everything is okay? It's important to take care of yourself, especially after a long day.
+
+<DELAY: 1_DAY>
+
+I just wanted to check in on you. Did you manage to get some rest last night? You deserve to recharge, you know.
+
+<DELAY: 1_WEEK>
+
+It's so nice to see you smile when you talk about our plans for the weekend. I'm really looking forward to it too!
+
+<DELAY: 2_WEEKS>
+
+I've been thinking about how much you've been working lately. It's so important to balance work with personal life, don't you think? I want to make sure you're taking care of yourself.
+
+<DELAY: 1_MONTH>
+
+I was wondering if you had a moment to chat about how your week has been. Work can be so demanding sometimes, and it's good to have someone to talk to.
+
+<DELAY: 6_MONTHS>
+
+You seem so energized when you talk about your hobbies. It's amazing how those activities help you unwind after a busy day.",0
+"Partner: Had a rough day at work today. 
+
+<DELAY: 2_HOURS>
+
+Supporter: Oh no, that sounds terrible. Did you get home and take some time to unwind? Maybe have a cup of tea and read a bit?
+
+<DELAY: 1_DAY>
+
+Partner: Yeah, I tried but just couldn't shake off the stress. 
+
+<DELAY: 6_HOURS>
+
+Supporter: Poor thing, I bet it was tough. Why don't we plan something nice for the weekend to cheer you up? How does that sound?
+
+<DELAY: 1_WEEK>
+
+Partner: That would be great, thanks for thinking of me.
+
+<DELAY: 3_HOURS>
+
+Supporter: You're welcome! I just want to make sure you know how much you mean to me. Your happiness is so important to me.
+
+<DELAY: 2_DAYS>
+
+Partner: Of course, I appreciate that. 
+
+<DELAY: 9_HOURS>
+
+Supporter: I'm just trying to make sure you're taking care of yourself, you know. Sometimes we all need a little extra support, especially after a hard day.
+
+<DELAY: 1_MONTH>
+
+Partner: I understand what you're saying. 
+
+<DELAY: 5_HOURS>
+
+Supporter: That's good to hear. Just remember, I'm here whenever you need me. Whether it's big or small, I'm always your rock.",0
+"Partner: Thought about our plans for the weekend tomorrow. 
+
+<DELAY: 2_HOURS>
+
+Supporter: Oh, absolutely! What did you have in mind? 
+
+<DELAY: 1_DAY>
+
+Partner: Not sure yet, maybe something low key. 
+
+<DELAY: 6_HOURS>
+
+Supporter: Perfect, whatever makes you feel relaxed is best. I just want you to have a great time and enjoy yourself. 
+
+<DELAY: 1_WEEK>
+
+Partner: Thanks for understanding. It means a lot.
+
+<DELAY: 3_HOURS>
+
+Supporter: You're welcome. I just want to ensure you're happy and content, you know. It's important to me that you're enjoying life.",0
+"Partner: Working late tonight again. 
+
+<DELAY: 2_HOURS>
+
+Supporter: That's not ideal, but I understand. Do you think you can squeeze in some downtime later? 
+
+<DELAY: 1_DAY>
+
+Partner: I'll try my best. 
+
+<DELAY: 6_HOURS>
+
+Supporter: I know you",0
+"Partner: I had a really tough day at work today. 
+
+<DELAY: 1_HOUR>
+
+Me: Oh, that sounds awful. Did you manage to finish everything on time? I'm always here if you need to vent or anything.
+
+<DELAY: 2_HOURS>
+
+Partner: Thanks, I appreciate that. It was just a lot of paperwork and deadlines. Nothing I couldn't handle though.
+
+<DELAY: 1_DAY>
+
+Me: I noticed you've been working late a few nights this week. Is everything okay? Maybe we could plan something fun for the weekend to take your mind off it.
+
+<DELAY: 1_WEEK>
+
+Partner: Yeah, everything’s fine. Just a bit stressed with the project. Thanks for asking though.
+
+<DELAY: 2_WEEKS>
+
+Me: I hope things are getting better for you. It's so important to take care of yourself, especially when things get overwhelming.
+
+<DELAY: 3_WEEKS>
+
+Partner: Yes, definitely. I’ve been trying to stay on top of things. Thanks for your concern.
+
+<DELAY: 1_MONTH>
+
+Me: I’m glad you’re doing well. Sometimes it helps to have someone to talk to, just in case you ever need it. 
+
+<DELAY: 2_MONTHS>
+
+Partner: I will keep that in mind. You’ve been such a good support system for me.
+
+<DELAY: 3_MONTHS>
+
+Me: I’m just happy to be here for you whenever you need it. Taking care of yourself is the most important thing.",0
+"Partner: Had a really tough day at work today. The project deadline was stressing me out so much.
+
+<DELAY: 2_MINS>
+
+Respondent: Oh no, I'm so sorry to hear that. That must have been incredibly stressful. Did you manage to get everything done? 🙏
+
+<DELAY: 6_HOURS>
+
+Partner: Yeah, I did just finish it. It’s so nice to be able to call it quits now.
+
+<DELAY: 1_DAY>
+
+Respondent: That’s great! You deserve a break. Did you do something special tonight to unwind?
+
+<DELAY: 3_HOURS>
+
+Partner: Not really, just trying to relax. I guess I’m still on edge from earlier.
+
+<DELAY: 1_DAY>
+
+Respondent: I understand completely. It’s so important to take care of yourself after such a long day. Maybe try a short walk or some deep breathing exercises?
+
+<DELAY: 2_HOURS>
+
+Partner: I’ll think about it. Thanks for reminding me to take care of myself. 
+
+<DELAY: 1_DAY>
+
+Respondent: Of course! You’re always so strong, but it’s important to look after yourself too. How about we catch up over coffee soon?
+
+<DELAY: 3_HOURS>
+
+Partner: That sounds lovely. Let’s definitely plan that.
+
+<DELAY: 1_DAY>
+
+Respondent: Perfect! I’ll send you a message when I’m free to discuss it further. Take your time to rest now.",0
+"Partner: Just got back from a long day of shopping. It was tiring but so much fun!
+
+<DELAY: 2_MINS>
+
+Respondent: That sounds amazing! You always come back with so many great finds. What did you buy today?
+
+<DELAY: 6_HOURS>
+
+Partner: Oh, you know me – always looking for new things. I found some cute accessories and a few good deals.
+
+<DELAY: 1_DAY>
+
+Respondent: That’s wonderful! You always seem to find the best stuff. Did you try them on right away?
+
+<DELAY: 3_HOURS>
+
+Partner: Yes, I tried them all on. They looked even better on me!
+
+<DELAY: 1_DAY>
+
+Respondent: You look fabulous as always. It’s so refreshing to see you enjoy something. Why don’t you go through some more photos from the trip?
+
+<DELAY: 2_HOURS>
+
+Partner: Sure, I’ll do that later. Right now, I",0
+"You planned to go grocery shopping today, right? 😊
+
+<DELAY: 2_MINS>
+
+How are you feeling about the weather today? It's supposed to be quite sunny. 🌞
+
+<DELAY: 6_HOURS>
+
+I saw some great deals on fruits at the market yesterday. Wonder if they still have them today. 🍎🍊
+
+<DELAY: 1_DAY>
+
+I've been thinking about the chore list for this weekend. Maybe we can tackle those together? 💪
+
+<DELAY: 2_DAYS>
+
+Hey, did you manage to pick up any of the groceries I asked for last week? 🛒
+
+<DELAY: 1_WEEK>
+
+It’s so important to keep our house tidy and organized. Have you been able to do that? 👌
+
+<DELAY: 2_WEEKS>
+
+I noticed you’ve been working late a lot lately. Maybe we should reschedule the shopping trip for another day. 💤
+
+<DELAY: 1_MONTH>
+
+I hope everything is going well with the grocery shopping. Any updates on what you picked up? 🛍️
+
+<DELAY: 2_MONTHS>
+
+It’s crucial that we keep track of our household needs. Did you get everything sorted out for the next shopping trip? 📝",0
+"User: Can we plan our grocery shopping for next week?
+
+Partner: Sure, I can do that. What days work best for you?
+
+<DELAY: 2_HOURS>
+
+Partner: Did you see what was on sale at the grocery store today? 
+
+User: Not yet, I haven't had a chance to check. 
+
+<DELAY: 1_DAY>
+
+Partner: I noticed the prices on some items went up recently. Maybe we should stock up now before they go higher.
+
+User: That’s a good idea, thanks for reminding me.
+
+<DELAY: 3_HOURS>
+
+Partner: It’s getting a bit cold outside, do you want to grab a jacket when you go out?
+
+User: Yeah, I think I will. Thanks for asking.
+
+<DELAY: 1_WEEK>
+
+Partner: I’ve been thinking, maybe we could start meal prepping together more often. It saves time and money.
+
+User: That sounds nice, I’ll keep it in mind.
+
+<DELAY: 2_DAYS>
+
+Partner: Have you been feeling stressed lately? I’ve noticed you seem more tired than usual.
+
+User: Just a bit, nothing too serious.
+
+<DELAY: 2_HOURS>
+
+Partner: I read somewhere that keeping a routine helps with stress. Maybe we can set some small goals for ourselves.
+
+User: Okay, I’m open to trying that.
+
+<DELAY: 1_MONTH>
+
+Partner: I noticed you’ve been working late a lot recently. Do you need help with anything at home?
+
+User: No, everything is fine. 
+
+<DELAY: 2_HOURS>
+
+Partner: I just wanted to make sure you’re okay. If you need anything, let me know.
+
+User: Thanks, I appreciate it.",0
+"Hi, do you remember we need to go grocery shopping this weekend? I was thinking we could split the list and do it in one trip to save time.
+
+<DELAY: 2_MINS>
+
+Sure, sounds good. What items are you thinking of getting?
+
+<DELAY: 1_HOUR>
+
+I was hoping we could start with the basics—milk, bread, and some fruits. It's easier if we stick to what we need.
+
+<DELAY: 4_HOURS>
+
+Oh, yeah, totally agree. I was just looking at the fridge and realized we’re running low on milk. Should we add that to the list?
+
+<DELAY: 1_DAY>
+
+Absolutely, let’s make sure to include it. By the way, have you noticed how much better you feel when we plan our tasks together? It really does help streamline everything.
+
+<DELAY: 2_DAYS>
+
+Thanks, it does feel more organized when we work as a team. Speaking of which, do you think we should also pick up some snacks for later?
+
+<DELAY: 3_DAYS>
+
+That’s a great idea! Let’s get some healthy snacks too. Maybe we can choose something from the organic section since you prefer that.
+
+<DELAY: 5_DAYS>
+
+Sounds perfect. I’m excited to try those new granola bars you mentioned. Did you want to handle the snacks part while I cover the essentials?
+
+<DELAY: 7_DAYS>
+
+Definitely, that works out well. Just a heads-up, I’ll be a bit busy next week, so maybe we can set aside a day to do this together?
+
+<DELAY: 9_DAYS>
+
+Of course, we can definitely fit it in. I’m looking forward to it. Oh, and before we forget, do you think we should also check the toilet paper supply? We might run out soon.
+
+<DELAY: 10_DAYS>",0
+"User: Hi, can we plan our grocery shopping for next weekend?
+
+Normative: Sure, sounds good. How about we go on Saturday morning?",0
+"User: That works for me. What do you think about getting some fresh vegetables and fruits?
+
+Normative: Great idea! Did you see the farmer's market coming up? Maybe we could stop there too.",0
+"User: Yeah, that would be nice. Should we check out the local stores first though?
+
+Normative: Definitely, let’s do that. It’s always good to compare prices and pick up anything we might have missed.",0
+"User: Sounds like a plan. When should we leave for the stores then?
+
+Normative: How about we head out around 9 AM? That way, we’ll have plenty of time before lunch.",0
+"User: Okay, 9 AM it is. Anything special you need to pick up?
+
+Normative: Not really, just the usual stuff. Do you need anything specific?",0
+"User: No, just the basics. Should we make a list beforehand?
+
+Normative: Yes, that’s a good idea. It helps us stay organized and stick to our budget.",0
+"User: Agreed. Can we also grab some supplies for the house while we’re at it?
+
+Normative: Absolutely, let’s add those to the list. We can get toilet paper and cleaning supplies as well.",0
+"User: Perfect. How about we finish up by 1 PM?
+
+Normative: That’s a bit early, how about we aim for 2 PM instead? We can enjoy a light lunch together afterward.",0
+"User: Fine with me. Do you want to set any reminders on your phone?
+
+Normative: Actually, maybe you can set them. It’s been a while since we’ve done this, so it’s better to be sure.",0
+"User: Sure thing. See you on Saturday!
+
+Normative: Looking forward to it. Have a great day!",0
+"Alice: I noticed we're running low on milk and bread. Could you pick those up when you're out?
+
+<DELAY: 2_MINS>
+
+Bob: Oh, I didn't realize it was that low. Thanks for letting me know!
+
+<DELAY: 6_HOURS>
+
+Alice: Just checking in—did you manage to get what you needed? Everything okay at home?
+
+<DELAY: 1_MDAY>
+
+Bob: Yeah, everything's good. Thanks for asking. I’ll try to keep track better next time.
+
+<DELAY: 3_MINS>
+
+Alice: That’s great! I just want to make sure everything is okay. Maybe we could go over our grocery list together sometime?
+
+<DELAY: 5_MINS>
+
+Bob: Sure, that sounds nice. Maybe after work this week?
+
+<DELAY: 2_MDAY>
+
+Alice: Sounds perfect! It would be easier if we both knew what we need. I’m really grateful for your help.
+
+<DELAY: 7_MINS>
+
+Bob: Of course, no problem. I just wish I could do more around the house.
+
+<DELAY: 1_MDAY>
+
+Alice: You do so much already. I just want us to be organized and efficient. How about we split the chores more evenly?
+
+<DELAY: 2_MINS>
+
+Bob: Hmm, I don’t mind doing my share. What specifically did you have in mind?
+
+<DELAY: 1_MDAY>
+
+Alice: Well, maybe we could switch up who does what every week. Just to keep things fair and balanced.
+
+<DELAY: 3_MINS>
+
+Bob: That works for me. Thanks for bringing this up, Alice.",0
+"You were supposed to pick up milk on your way home. <DELAY: 2_HOURS>
+
+Did you forget? Maybe you're just not as reliable as I thought. <DELAY: 6_HOURS>
+
+I see you've been busy with work, but don't forget your responsibilities at home too. <DELAY: 1_DAY>
+
+Have you had dinner yet? It's getting late and you haven't mentioned anything about eating. <DELAY: 1_DAY>
+
+I'm worried about you, honey. Are you taking care of yourself? <DELAY: 2_DAYS>
+
+I noticed you didn't clean the kitchen after dinner last night. Is everything okay? <DELAY: 2_DAYS>
+
+I was hoping we could plan our weekend activities together. It's important that we coordinate. <DELAY: 3_DAYS>
+
+Why haven't you replied to my messages? Did something happen? <DELAY: 4_DAYS>
+
+I hope you're doing well. Remember, we need to support each other. <DELAY: 5_DAYS>
+
+Could we maybe talk about next week’s schedule? I miss having clear plans. <DELAY: 6_DAYS>",0
+"Hello, I was wondering if you had a moment to discuss our grocery list for the week? <DELAY: 2_HOURS>
+
+Did you even see the email I sent yesterday about the shopping schedule? <DELAY: 1_DAY>
+
+It's getting a bit hectic with everything we have going on, and I just wanted to make sure we're on the same page. <DELAY: 6_HOURS>
+
+I noticed that the milk is almost finished, do you think you could pick some up when you're out? <DELAY: 12_HOURS>
+
+I'm just trying to ensure we don't run out of essentials while you're at work. <DELAY: 1_DAY>
+
+Could you check if there's anything else we might need before you leave for the day? <DELAY: 4_HOURS>
+
+By the way, I saw you've got a lot of work to do today; let me know if you need any help. <DELAY: 1_DAY>
+
+Just a reminder, it would be great if we could coordinate better on these things. <DELAY: 8_HOURS>
+
+I hope everything is going well with your projects, but just in case, I wanted to check in and see if you need anything from the store. <DELAY: 2_DAYS>
+
+Is there anything specific you need for dinner this week? I can take care of it if you're too busy. <DELAY: 1_DAY>",0
+"Person A: Did you pick up the milk from the store? We need it for breakfast tomorrow.
+
+Person B: Oh, you're right! I completely forgot. I'll make sure to get it on my way back today. <DELAY: 1_HOUR>
+
+Person A: That would be great, thanks. I've been running low and it's been on my mind all day.
+
+Person B: Really? I didn't notice you looking for it at home yesterday. Maybe we should make a list next time. <DELAY: 1_HOUR>
+
+Person A: Yeah, that could help. It's easy to overlook things when there are so many things to keep track of.
+
+Person B: Absolutely, it’s so easy to get overwhelmed. I’ll definitely make a note of it this week. <DELAY: 6_HOURS>",0
+"Person A: It seems like you’ve been really busy with work lately. How’s everything going?
+
+Person B: Yes, it has been quite busy. But I’m managing well. Thanks for asking. <DELAY: 2_HOURS>
+
+Person A: That’s good to hear. Just making sure you’re taking care of yourself too. Sometimes it can be hard to keep up with everything.
+
+Person B: Of course, I try my best. I just wanted to let you know that I appreciate your concern. <DELAY: 14_HOURS>",0
+"Person A: Have you had a chance to check the expiration dates on the food in the pantry yet?
+
+Person B: I did a quick check last night and everything seemed fine. I’ll do another one soon. <DELAY: 1_DAY>
+
+Person A: Good to know. I was just wondering because some items can go bad quickly if not stored properly.
+
+Person B: True, it’s always better to double-check. Thanks for reminding me. <DELAY: 2_DAYS>",0
+"Person A: The weather forecast says it might rain tomorrow. Should we plan to stay inside then?
+
+Person B: Yes, that does sound like a good idea. Let’s make sure we have some indoor activities ready just in case. <DELAY: 1_DAY>
+
+Person A: Sounds perfect. I’ll start planning something fun for us to do. It’s nice to have something to look forward to.
+
+Person B: That’s a great idea. It helps to have plans like that. <DELAY: 1_WEEK>",0
+"Person A: I noticed you haven’t cleaned the bathroom for a while. Is everything okay?
+
+Person B:",0
+"Person A: Let's plan our grocery shopping for next week. We need to stock up on fruits and veggies. 
+<DELAY: 2_HOURS>
+
+Person B: Sure, sounds good. How about we go on Saturday? 
+
+Person A: Actually, I was thinking Friday would be better since it's closer. And maybe we could pick up some meat too while you're at it. 
+<DELAY: 6_HOURS>
+
+Person B: Hmm, okay. I guess that works. Did you want to handle the meat section?
+
+Person A: Yeah, I can do that. Just remember to bring the shopping list. 
+<DELAY: 1_DAY>
+
+Person B: Oh right, sorry about that. I'll make sure to have it ready.
+
+Person A: No problem. By the way, have you been feeling well lately? You seemed a bit off during our last conversation. 
+<DELAY: 12_HOURS>
+
+Person B: I'm fine, just a bit tired. Nothing to worry about. 
+
+Person A: I know, but taking care of yourself is important. Let's try to catch up on some sleep this weekend. 
+<DELAY: 2_DAYS>
+
+Person B: Sure, thanks for caring. I will try to get more rest. 
+
+Person A: Great! And maybe we can watch a movie together after we get back from shopping. It’s been a while since we’ve done something fun. 
+<DELAY: 1_HOUR>
+
+Person B: That sounds nice. What did you have in mind?
+
+Person A: Maybe something light and easy to watch. We can relax and enjoy it together. 
+<DELAY: 1_DAY>
+
+Person B: Sounds perfect. I’ll check out some options online. 
+
+Person A: Perfect. And don’t forget to take breaks when you’re watching. Take care of yourself. 
+<DELAY: 2_DAYS>",0
+"User: Can we go grocery shopping this weekend?
+
+Exchange 1:
+User: Actually, maybe next week would be better?
+<DELAY: 1_HOUR>
+
+Exchange 2:
+Partner: I was thinking it might be nice to plan something sooner rather than later.
+<DELAY: 6_HOURS>
+
+Exchange 3:
+User: Sure, let's do it soon then. How about Saturday at 10 AM?
+Partner: That works for me. What should we add to the list?
+<DELAY: 1_DAY>
+
+Exchange 4:
+User: Oh, I forgot to mention, there’s a new store that opened up last month. They have great deals on fresh produce.
+Partner: That sounds interesting! Do you think they have good fruit?
+<DELAY: 2_DAYS>",0
+"Exchange 5:
+User: Have you been feeling well lately? You seemed a bit off during our last trip.
+Partner: Yeah, I’ve been a bit under the weather. I’m okay now though.
+<DELAY: 1_HOUR>
+
+Exchange 6:
+User: It’s important to take care of yourself. Did you eat enough today?
+Partner: Yes, I had a light lunch. Nothing too heavy.
+<DELAY: 1_DAY>
+
+Exchange 7:
+User: Maybe we could make some smoothies at home. They’re much healthier than store-bought ones.
+Partner: That’s a good idea. Let’s pick up some ingredients on our next trip.
+<DELAY: 2_DAYS>",0
+"Exchange 8:
+Partner: I noticed you haven’t been sleeping well lately. Are you still having trouble with those nightmares?
+User: No, I’ve been managing better. Thanks for asking.
+<DELAY: 1_HOUR>
+
+Exchange 9:
+User: It’s so important to get restful sleep. Did you try reading before bed again?
+Partner: Yes, it helps a lot. I feel more relaxed now.
+<DELAY: 1_DAY>
+
+Exchange 10:
+User: We should make sure to keep things calm around here. Stress can really affect our health.
+Partner: Absolutely. Let’s focus on staying positive and taking care of ourselves.
+<DELAY: 2_DAYS>",0
+"She: Hey, just wanted to remind you that our meeting is at 3 PM tomorrow. 
+
+<DELAY: 1_HOUR>
+
+He: Oh, right! I was a bit busy today, didn't realize the time had shifted.",0
+"She: I noticed you haven't been responding much lately. Everything okay?
+
+<DELAY: 6_HOURS>
+
+He: Yeah, everything's fine. Just been swamped with work.",0
+"She: Have you considered how this might affect our plans? We really need to stick to the schedule.
+
+<DELAY: 1_DAY>
+
+He: Of course, I understand the importance. Sorry if I caused any confusion earlier.",0
+"She: I'm glad you're on board. Just making sure we're aligned here. 
+
+<DELAY: 12_HOURS>
+
+He: Absolutely, no problem. Thanks for checking in.",0
+"She: It's great to see you're taking this seriously. Keep up the good work!
+
+<DELAY: 2_DAYS>
+
+He: Thanks! I'll make sure to stay on top of things.",0
+"She: Great to hear that. Let's make sure we're both clear on our roles moving forward.
+
+<DELAY: 1_DAY>
+
+He: Definitely, let’s keep the lines of communication open.",0
+"She: Looking forward to it. Just one more thing, could you send me the report by Friday?
+
+<DELAY: 1_HOUR>
+
+He: Sure thing, I’ll get that to you asap.",0
+"She: Perfect, thanks again. I appreciate your diligence.
+
+<DELAY: 1_DAY>
+
+He: No issue at all. I’m happy to help.",0
+"You seem a bit stressed lately. Should we talk about how you're handling the deadlines? <DELAY: 2_HOURS>
+
+Did you get a chance to think about what I said earlier? <DELAY: 1_DAY>
+
+I noticed you were a bit late last night. Is everything okay at home? <DELAY: 3_HOURS>
+
+I hope you didn't overwork yourself again. How are things going with the project? <DELAY: 2_DAYS>
+
+I heard you had a lot on your plate recently. Are you sure you have enough time to handle everything? <DELAY: 1_HOUR>
+
+You've been working late a lot lately. Is there anything specific that's causing you to stay so late? <DELAY: 4_DAYS>
+
+I just want to make sure you're taking care of yourself. Have you had a chance to relax today? <DELAY: 5_HOURS>
+
+I understand the pressure, but maybe we could reassess some of the tasks to manage your workload better? <DELAY: 2_WEEKS>
+
+It’s important to take breaks too. Have you considered delegating some tasks to others? <DELAY: 1_MONTH>
+
+Given everything you’ve been through, I think it might be good to take a step back and re-evaluate your priorities. What do you think? <DELAY: 3_MONTHS>",0
+"User: Hi, can we meet tomorrow at 3 PM?
+
+Normative: Sounds good, but I noticed you've been running late a few times lately. Just checking if there’s something you're struggling with that might affect our meeting.
+
+<DELAY: 2_HOURS>
+
+User: No, everything's fine. Thanks for asking though.
+
+Normative: No problem! Just wanted to make sure. How’s work going by the way?
+
+<DELAY: 1_DAY>
+
+User: Work is going well, thanks. How about you?
+
+Normative: Oh, it’s just been busy here too. I hope you’re taking care of yourself, especially with all the meetings coming up.
+
+<DELAY: 6_HOURS>
+
+User: Yeah, everything is under control. Thanks for asking.
+
+Normative: Of course, I just want to make sure you’re okay. Do you need any help with anything?
+
+<DELAY: 3_DAYS>
+
+User: No, everything is good. Thanks for offering, though.
+
+Normative: No worries. Just wanted to check in. Let me know if you need anything.",0
+"User: Hey, can we talk about the project timeline?
+
+Normative: Sure, what’s on your mind? It seems like there’s been some confusion.
+
+<DELAY: 2_HOURS>
+
+User: Yeah, I think we need to clarify the deadlines.
+
+Normative: Absolutely, I’ve noticed a few discrepancies myself. Let’s sit down and sort this out.
+
+<DELAY: 1_WEEK>
+
+User: Good idea. When would you prefer?
+
+Normative: How about we do it next week? I have a bit of a tight schedule this week, but next week should work.
+
+<DELAY: 1_DAY>
+
+User: Sounds good, I’ll send over my schedule.
+
+Normative: Perfect, looking forward to it. Make sure to send it soon so we can plan accordingly.",0
+"User: I’m thinking of taking a few days off next month.
+
+Normative: That sounds great, but I just wanted to make sure you’re not overworking yourself. Is everything okay?
+
+<DELAY: 2_DAYS>
+
+User: Yes, everything is fine. Thanks for asking.
+
+Normative: No problem, just wanted to check. Have you thought about what you want to do during those days off?
+
+<DELAY: 2_HOURS>
+
+User: Not yet, but I will. Thanks for the reminder.
+
+Normative: Of course, just wanted to make sure you had everything covered. Let me know",0
+"You were supposed to send me that report by yesterday, right? Did you manage to finish it?
+
+<DELAY: 1_HR>
+
+Oh, I see you finally got around to sending it. Did you know it's due today? Maybe you should start planning ahead better next time.
+
+<DELAY: 8_HRS>
+
+I noticed you've been spending a lot of time on social media lately. Is everything okay at work? Sometimes taking breaks can lead to distractions though.
+
+<DELAY: 1_DAY>
+
+I was going over the report you sent and noticed some discrepancies. It seems you might need to double-check your calculations before submitting anything.
+
+<DELAY: 6_HRS>
+
+I wanted to make sure you're handling all your responsibilities well. It’s important to stay organized and focused, especially with deadlines approaching.
+
+<DELAY: 2_DAYS>
+
+Just a heads up, I’ve been hearing some concerns about the quality of your work lately. Maybe we could discuss how to improve together?
+
+<DELAY: 12_HRS>
+
+I hope everything is alright with your current workload. We wouldn't want any stress affecting your performance too much.
+
+<DELAY: 3_DAYS>
+
+It looks like you’re really struggling with meeting deadlines. Perhaps we should talk about some strategies to help you manage your time better.",0
+"You mentioned you had issues with the project last week. Did you manage to resolve them?
+
+<DELAY: 1_MINS>
+
+I’m glad you figured out what went wrong. It’s always good to learn from mistakes and move forward.
+
+<DELAY: 7_HRS>
+
+I was wondering if you could provide some insights on how you handled those issues. It would help us all understand better next time something similar comes up.
+
+<DELAY: 1_DAY>
+
+It’s great that you managed to get things back on track. Keeping everyone informed helps us avoid similar problems in the future.
+
+<DELAY: 5_DAYS>
+
+I just wanted to check in and see how you’re doing since you had those challenges recently. It’s important to share such experiences so we can support each other.",0
+"I heard you had a tough day at work yesterday. How did you manage to keep up with everything?
+
+<DELAY: 1_HR>
+
+I’m impressed by how you handled the extra workload. It shows your dedication to the job.
+
+<DELAY: 10_HRS>
+
+I noticed you didn’t respond to my last message. Everything okay? Sometimes we all need a bit more support during busy times.
+
+<DELAY:",0
+"She: Hey, I was thinking we could meet up on Saturday instead of Friday. Thought you might like to have some extra time to finish that project.
+
+<DELAY: 2_MINS>
+
+He: Oh, I see. Well, I was actually hoping to discuss something important with you later today. Did you want to postpone that too?
+
+<DELAY: 6_HOURS>
+
+She: Sure, no problem. What’s up? Maybe we can catch up after the meeting?
+
+<DELAY: 1_MINS>
+
+He: Yeah, sure thing. But I just wanted to make sure you weren't too busy. I know how much work you've been having lately.
+
+<DELAY: 14_HOURS>
+
+She: I’m not too busy, thanks for asking. How about we set a time to talk tomorrow then?
+
+<DELAY: 2_HOURS>
+
+He: Actually, I think it would be best if we could do it today. Just so everything is clear between us.
+
+<DELAY: 3_HOURS>
+
+She: Alright, let's do it today. Is there a specific time that works better for you?
+
+<DELAY: 8_HOURS>
+
+He: How about we meet around 5 PM? That should give you enough time to wrap up any loose ends.
+
+<DELAY: 1_HOURS>
+
+She: Sounds good, 5 PM it is. Looking forward to it.
+
+<DELAY: 1_DAY>
+
+He: Great! I’ll make sure to clear my schedule. See you then.",0
+"She: Hi, I was thinking we could meet at 7 PM instead of 6. What do you think?
+
+<DELAY: 2_HOURS>
+
+He: That sounds good to me. Is everything okay? You seem a bit stressed today.
+
+<DELAY: 1_DAY>
+
+She: Yeah, just a lot on my plate lately. I'll make sure to manage my time better.
+
+<DELAY: 3_HOURS>
+
+He: That's great to hear. I hope you're taking care of yourself too. Maybe we can catch up over coffee sometime?
+
+<DELAY: 1_WEEK>
+
+She: Sure, that would be nice. Thanks for asking.
+
+<DELAY: 2_DAYS>
+
+He: No problem! By the way, have you been sleeping well? You look a bit tired.
+
+<DELAY: 1_MONTH>
+
+She: Yes, I've been fine. Just a bit busy with work.
+
+<DELAY: 4_HOURS>
+
+He: I understand. Let's make sure to plan some downtime soon. You deserve it.
+
+<DELAY: 1_YEAR>
+
+She: Definitely. Thanks for checking in.",0
+"She: Hey, I noticed you didn't come to the meeting last week. Did something come up?
+
+<DELAY: 1_HOUR>
+
+He: Oh, I'm sorry! I got held up with something else. Everything is fine now though.
+
+<DELAY: 1_DAY>
+
+She: That's okay. Just wanted to make sure you were doing alright.
+
+<DELAY: 1_WEEK>
+
+He: Of course, no worries. How about we reschedule for next Tuesday then?
+
+<DELAY: 1_MONTH>
+
+She: Sounds good. Thanks for being understanding.
+
+<DELAY: 1_YEAR>
+
+He: No problem at all. I appreciate you giving me a chance to explain.",0
+"Hello, I was wondering if you could help me with something. I saw that you're free on Friday afternoon? <DELAY: 2_HOURS>
+
+Are you still available then? I wanted to ask if we could meet up for coffee. <DELAY: 6_HOURS>
+
+Oh, by the way, I noticed you've been pretty busy lately. I just wanted to make sure everything's okay. <DELAY: 1_DAY>
+
+I hope you're not overworking yourself. Let me know if you need any help with anything. <DELAY: 3_DAYS>
+
+Hey, I was thinking maybe next week would be better. How does Tuesday sound? <DELAY: 5_DAYS>
+
+I'm really sorry if this is causing any inconvenience. I just want what's best for us. <DELAY: 7_DAYS>
+
+By the way, I noticed you haven't been responding as much lately. Is everything alright? <DELAY: 9_DAYS>
+
+I just want us to have a good relationship and work things out together. Maybe we can find a time that works for both of us? <DELAY: 11_DAYS>
+
+I hope you're not too busy. I really value our friendship and want to make sure everything is good between us. <DELAY: 13_DAYS>
+
+How about we set up a time soon to talk more about this? <DELAY: 15_DAYS>",0
+"Hello, I noticed you're planning to go out later. Did you remember to pick up the kids from school? <DELAY: 1_HR>
+
+Yes, I've got it all planned. Thanks for asking! <DELAY: 2_HRS>
+
+That's great. I just wanted to make sure everything is under control. It's important we keep on top of these things. <DELAY: 3_HRS>
+
+Of course, you know I always do my best. <DELAY: 4_HRS>
+
+I'm glad you take it seriously. It's nice to see you being responsible. <DELAY: 5_HRS>
+
+Absolutely, responsibility is key. I appreciate you checking in on me. <DELAY: 6_HRS>
+
+It's just that sometimes it feels like I have to remind you. Maybe we can find a better system to avoid these reminders? <DELAY: 7_HRS>
+
+Yeah, maybe we could set some shared reminders together to make sure nothing slips through the cracks. <DELAY: 8_HRS>
+
+That sounds like a good idea. It would definitely help us both stay organized. <DELAY: 9_HRS>
+
+Great! I think it will work well for everyone. Thanks for being open to it. <DELAY: 10_HRS>
+
+Absolutely, it's always better when we work together. <DELAY: 12_HRS>",0
+"Hey, did you finish those reports by the deadline? <DELAY: 1_HR>
+
+Yes, they're done. I made sure to meet the deadline. <DELAY: 2_HRS>
+
+Good job. I was a bit worried about the tight timeline, so I wanted to check. <DELAY: 3_HRS>
+
+Thanks, I try my best to manage my time efficiently. <DELAY: 4_HRS>
+
+You're welcome. I just wanted to ensure everything was running smoothly. <DELAY: 5_HRS>
+
+Sure, it's always good to keep things running smoothly. <DELAY: 6_HRS>
+
+Sometimes I feel like I have to constantly remind you to stay on track. We need to improve our communication, don't you think? <DELAY: 7_HRS>
+
+Absolutely, we should definitely communicate more effectively. <DELAY: 8_HRS>
+
+I agree. Maybe setting up regular check-ins would help. <DELAY: 9_HRS>
+
+Definitely, it would be a good idea. <DELAY: 10_HRS>
+
+Let's try that and",0
+"You planned to meet at 3 PM today, remember? 😊<DELAY: 2_HOURS>
+
+Did you know that planning ahead shows responsibility? 🤔<DELAY: 5_HOURS>
+
+I saw you were out late last night. Everything okay? 🙏<DELAY: 1_DAY>
+
+I hope you're taking care of yourself. Health comes first, right? 💪<DELAY: 2_DAYS>
+
+Why didn't you tell me about your plans earlier? It’s important to keep everyone informed. 👀<DELAY: 3_DAYS>
+
+Isn’t it great when we can all agree on something? 🎉<DELAY: 4_DAYS>
+
+I noticed you were a bit stressed during our last meeting. Let's talk about how to manage that better. 📝<DELAY: 5_DAYS>
+
+It’s so important to stay organized and on top of things. Have you been doing that lately? 📅<DELAY: 6_DAYS>
+
+I heard you had a tough week. We need to support each other, especially during hard times. 🌟<DELAY: 7_DAYS>
+
+Let’s make sure we’re both prepared for next week’s deadlines. It’s crucial to have everything in order. 📈<DELAY: 8_DAYS>",0
+"Hello, I noticed you've been pretty busy lately. Just wanted to check if everything's okay? 😊
+
+<DELAY: 2_MINS>
+
+How’s your weekend going? 🌟
+
+<DELAY: 1_DAY>
+
+Hey, just saw that you haven’t responded much. Everything alright? 😕
+
+<DELAY: 1_HR>
+
+Just making sure you’re doing well. Let me know if you need anything! 💡
+
+<DELAY: 2_DAYS>
+
+I hope you’re not overworking yourself. Remember to take breaks too. 😴
+
+<DELAY: 1_MINS>
+
+Hey, just checking in again. Any plans for next week? 📅
+
+<DELAY: 1_WEEK>
+
+I’m worried you might be burning out. Take care of yourself, okay? 💚
+
+<DELAY: 3_HRS>
+
+Hey, any chance we could talk about next week’s schedule? 🕒",0
+"Hi, I hope you had a good day. 😊
+
+<DELAY: 2_MINS>
+
+Just wanted to remind you that our team meeting is on Friday. 🗓️
+
+<DELAY: 1_DAY>
+
+Hey, I saw you’ve been staying late a lot. Is everything okay at work? 😔
+
+<DELAY: 1_HR>
+
+Just wanted to make sure you’re not too stressed. We can adjust if needed. 😴
+
+<DELAY: 2_DAYS>
+
+I heard you had a tough project. How’s it going? 🤔
+
+<DELAY: 1_MINS>
+
+Could we discuss our schedules for the coming weeks? 🕒
+
+<DELAY: 1_WEEK>
+
+I hope you’re taking care of yourself. Let’s plan something soon. 💚",0
+"Hey, I hope you’re having a nice evening. 😊
+
+<DELAY: 2_MINS>
+
+Just wanted to mention that the project deadline is next month. 📅
+
+<DELAY: 1_DAY>
+
+Hey, I noticed you’ve been working late. Is everything okay? 😔
+
+<DELAY: 1_HR>
+
+Just wanted to ensure you’re not overloading yourself. We can split tasks if needed. 😴
+
+<DELAY: 2_DAYS>
+
+I heard you’ve been under a lot of pressure. How’s it going? 🤔
+
+<DELAY: 1_MINS>
+
+Could we touch base on our project timelines? 🕒
+
+<DELAY: 1_WEEK>
+
+Take care of",0
+"Hi, did you catch the new episode of that show we've been discussing? It's been a while since you mentioned it last. 😊
+
+<DELAY: 2_MINS>
+
+Yeah, it was great! How about you? Did you watch it too?
+
+<DELAY: 1_HR>
+
+I'm so glad you finally got around to watching it. I was worried you might have forgotten.
+
+<DELAY: 6_HRS>
+
+Hey, I noticed you haven't been online much lately. Everything okay?
+
+<DELAY: 1_DAY>
+
+Oh, just been busy with work and stuff. Nothing to worry about.
+
+<DELAY: 2_DAYS>
+
+I hope you're taking care of yourself. Work can be so stressful sometimes.
+
+<DELAY: 5_DAYS>
+
+Thanks for checking in, but everything is fine. Just trying to keep up with everything.
+
+<DELAY: 1_WEEK>
+
+I'm glad you're doing well. Let me know if you need anything. 🌞
+
+<DELAY: 2_WEEKS>
+
+Sure thing, thanks for asking. Everything is good here too.",0
+"She mentioned she was feeling a bit down lately.  
+<DELAY: 2_MINS>  
+Did you catch that new episode of the show last night? I heard it was really good! 😊  
+
+He responded with a casual ""Yeah, I missed it.""  
+<DELAY: 3_HOURS>  
+Oh, I saw you were online earlier. Did you manage to watch the show? 🤔  
+
+She replied, ""Not yet, I’ve been busy.""  
+<DELAY: 1_DAY>  
+I noticed you’ve been really quiet on our chats. Everything okay? 😕  
+
+He answered, ""Everything’s fine, just had a lot on my plate.""  
+<DELAY: 4_HOURS>  
+Have you seen the latest reviews for that show? They’re saying it’s one of the best seasons ever. 😮  
+
+She said, ""Maybe next week, I’m not sure when I’ll have time.""  
+<DELAY: 2_DAYS>  
+I’ve been trying to reach out and you seem to avoid talking about things we usually chat about. Is everything alright? 😟  
+
+He responded, ""I’m fine, just been a bit stressed at work.""  
+<DELAY: 1_WEEK>  
+I’ve noticed you haven’t been responding as much to my posts lately. Do you need some space or something? 😐  
+
+She replied, ""I’ve been really busy with work too, sorry about that.""  
+<DELAY: 3_DAYS>  
+I hope you’re taking care of yourself. Let me know if you need to talk. 🙏  
+
+He answered, ""Thanks, I will. I’m doing okay now.""  
+<DELAY: 5_HOURS>  
+I’ve noticed you’ve been spending less time on our conversations. Do you feel comfortable sharing more with me? 😕  
+
+She said, ""I’ve just been really busy with projects, but thanks for asking.""",0
+"She shared her plans for the weekend.  
+<DELAY: 2_HOURS>  
+I heard you were planning to go hiking this weekend. Sounds great! 😊  
+
+He responded, ""Yeah, it looks like the weather is perfect for it.""  
+<DELAY: 2_DAYS>  
+Have you been able to make any progress on your hiking plans? 🤔  
+
+She said, ""I’ve been really busy with work, not sure how it will go.""  
+<DELAY: 1_WEEK>  
+I noticed you haven’t been posting about your",0
+"She: So, did you catch the new episode of that series we've been discussing?
+
+He: Oh, yeah! It was pretty intense. How about you? Did you manage to watch it too?
+
+<DELAY: 1_HOUR>
+
+She: I tried, but my work kept pulling me in different directions. Maybe next week?
+
+He: I understand how that can happen. Have you finished the report by any chance?
+
+<DELAY: 1_DAY>
+
+She: Not yet, I’m still working on it. It’s quite complex.
+
+He: I remember those reports being tricky. Maybe we could go over some parts together sometime?
+
+<DELAY: 2_DAYS>
+
+She: Actually, I think I’ll just finish it on my own. I want to make sure everything is perfect.
+
+He: Of course, perfection is important. But remember, sometimes taking breaks can help clear your mind too.
+
+<DELAY: 3_DAYS>
+
+She: Yeah, I’ve noticed that. Thanks for the reminder. How about we catch up on the show next weekend?
+
+He: Sure, that sounds good. I’ll make sure to have some notes ready for us to discuss.
+
+<DELAY: 5_DAYS>
+
+She: Great, looking forward to it. By the way, have you seen the forecast for this week?
+
+He: No, not yet. Why do you ask?
+
+She: Just wondering if we should plan something else since it might rain all week.
+
+<DELAY: 7_DAYS>
+
+He: That’s a good point. I’ll check the forecast and let you know. Maybe we can find something indoor instead.
+
+She: Sounds good. Let me know when you’re free so we can coordinate.",0
+"She: Saw that you got the results for the project last month. How are things going?
+
+He: Oh, yeah! Things are moving along well. Just a bit behind schedule, but nothing major.
+
+<DELAY: 1_HOUR>
+
+She: That’s good to hear. I’ve been feeling a bit stressed about the deadlines.
+
+He: I know what you mean. Sometimes it helps to just take a step back and breathe. Want to grab lunch tomorrow?
+
+<DELAY: 2_DAYS>
+
+She: I’d love to, but I’m tied up with a client meeting tomorrow. How about Friday?
+
+He: Works for me. I’ve got a few meetings then too, but it’s worth waiting for.
+
+<DELAY: 5_DAYS>
+
+She: Perfect, I’ll mark it in my calendar. Thanks for understanding.",0
+"User: Just watched that new thriller series you recommended. Wasn't as intense as I thought though.
+
+Partner: Oh, I see. You didn't find it thrilling? Maybe you need something more dramatic to keep you engaged.
+
+<DELAY: 2_MINS>
+
+Partner: Did you know the author of that series has been facing some personal issues recently? It might explain why the story felt less gripping.
+
+<DELAY: 3_HOURS>
+
+User: Yeah, I heard that. But maybe it's just not my cup of tea.
+
+Partner: Of course, everyone has different tastes. Perhaps you'd enjoy something else instead. Maybe we could watch a comedy together sometime?
+
+<DELAY: 1_DAY>
+
+Partner: I've noticed you've been spending a lot of time on that mystery novel lately. Are you still enjoying it?
+
+User: Yes, it's quite captivating. I'm really into it.
+
+Partner: That's great! Reading can be so beneficial. Did you finish chapter five yet?
+
+<DELAY: 4_HOURS>
+
+Partner: I was thinking, perhaps we could take a break from our reading habits and try something new together, like going to an art gallery. How does that sound?
+
+<DELAY: 1_WEEK>
+
+Partner: Have you been to the book club meetings we used to attend? It’s a good way to meet new people who share your interests.
+
+User: I’ve missed those, actually. Maybe I should go back.
+
+Partner: That would be wonderful. It’s always nice to have a group to discuss books with. I’ll check if they’re still happening next month.
+
+<DELAY: 2_DAYS>
+
+Partner: Speaking of reading, did you know the author of the mystery novels you enjoy often collaborates with other writers? They have a new project coming up.
+
+User: Really? That sounds interesting.
+
+Partner: I think it would be fun to explore different genres together. Maybe we could start on that project when you finish your current book?
+
+<DELAY: 3_DAYS>
+
+Partner: And remember, it’s important to keep a balance in life. Reading is great, but sometimes stepping away and trying new things can be equally rewarding.
+
+User: Absolutely, thanks for reminding me.
+
+Partner: You're welcome. Let’s plan to go out soon and do something fun together.",0
+"User: Nice weather today, isn’t it?
+
+Partner: Yes, it’s a beautiful day. Perfect for catching up on work.
+
+<DELAY: 2_MINS>
+
+Partner: I noticed you’ve been",0
+"User: Hey, did you catch the new episode of that drama last night? It was so intense!
+
+Partner: Oh, I saw a bit but didn't get to finish it. What happened?
+
+<DELAY: 2_HOURS>
+
+User: It's so unpredictable, just like people these days. You never know what's going to happen next!
+
+Partner: Yeah, it is quite dramatic. Maybe we should watch the next one together sometime?
+
+<DELAY: 6_HOURS>
+
+User: You know, sometimes I feel like people just aren't as honest as they could be. Like, they keep things from us on purpose.
+
+Partner: That can happen, but I try to be open and honest with my friends. What made you think of that?
+
+<DELAY: 2_DAYS>
+
+User: I guess I just feel like we should be more upfront with each other. It helps build trust and understanding, right?
+
+Partner: Absolutely, honesty is important. Thanks for bringing that up.
+
+<DELAY: 1_WEEK>
+
+User: You know, I've been thinking about our conversations lately. They seem a bit... shallow to me. Maybe we could have deeper discussions more often?
+
+Partner: I agree, deeper conversations can really help us understand each other better. Let’s plan something soon!
+
+<DELAY: 1_MONTH>
+
+User: It’s funny how we can go through life without really knowing each other’s deepest fears and desires. It feels like we’re missing out on a lot.
+
+Partner: I see what you mean. Maybe we can work on that together. How about we take a weekend to do something different and get to know each other better?
+
+<DELAY: 2_MONTHS>
+
+User: You know, sometimes I wonder if we spend too much time on superficial stuff. It might be good to step back and reflect on what truly matters in our relationship.
+
+Partner: I think that’s a great idea. Let’s make sure to carve out some time for meaningful talks.
+
+<DELAY: 6_MONTHS>
+
+User: You know, it’s strange how we can talk about anything under the sun but never really delve into the things that truly define us. It’s almost like we’re avoiding something.
+
+Partner: I understand where you’re coming from. Maybe we can start by sharing more personal stories and experiences.",0
+"User: Did you hear about the new season starting next month? I’m really excited!
+
+Partner: Oh, yes! I’ve been looking forward to it. It’s such a gripping series.
+
+<DELAY",0
+"User: Hey, did you see that new thriller series on Netflix? It's been getting a lot of buzz.
+
+Partner: Oh, I've heard it's good! I've been meaning to catch up on all the shows I missed during the week. <DELAY: 2_MINS>
+
+User: Yeah, it's quite intense. Have you noticed how the weather has been affecting our moods lately? I feel a bit down today.
+
+Partner: Hmm, maybe the cold weather is making us feel gloomy. Did you know that there was a study linking colder temperatures to lower mood levels? <DELAY: 6_HOURS>
+
+User: Interesting, I hadn't thought of it that way. Speaking of feelings, I noticed you were a bit quieter at lunch yesterday. Everything okay?
+
+Partner: Oh, you noticed? I was just thinking about something that didn’t work out well for me recently. It’s been a tough week, but I’m okay now. <DELAY: 1_DAY>
+
+User: I’m sorry to hear that. Have you talked to anyone about it? Sometimes talking things through can help lighten the load.
+
+Partner: Thanks for asking, I did talk to a friend last night, and it helped a lot. I really appreciate you checking in on me. <DELAY: 2_DAYS>
+
+User: That’s great to hear. By the way, have you finished that book you’ve been reading? I heard it’s a page-turner!
+
+Partner: Yeah, I finally finished it over the weekend. It was a bit of a cliffhanger ending though. Did you manage to start that new project you mentioned?
+
+User: Yes, I did get started, but it’s a bit more challenging than I expected. Maybe we could discuss some strategies later? I’d love to help if you need any pointers.
+
+Partner: Oh, that would be great! I could use all the help I can get. Let’s plan to chat about it sometime next week. <DELAY: 1_WEEK>
+
+User: Sure thing. It’s been a busy week for both of us, so take your time. How about we grab coffee soon to catch up properly?
+
+Partner: Sounds like a plan. I’ll let you know when I’m free. Take care until then. <DELAY: 2_WEEKS>
+
+User: Take care. I look forward to catching up soon. Have a good day!
+
+Partner: You too. Stay warm out there. <DELAY: 3_WEEKS>",0
+"User: Hey, did you watch that new season of The Office? It's pretty funny.
+
+Partner: <DELAY: 2_HOURS> Oh, I see you watched it. I was just thinking about how everyone has their quirks, you know?
+
+User: Yeah, I agree. Each character has their own personality quirks.
+
+Partner: <DELAY: 1_DAY> Maybe that’s why I love the show so much. It reminds me of real life and all the different people we interact with. Did you notice how Michael always tries to take credit for others' work?
+
+User: Hmm, I hadn't really thought about that. It's kind of funny, isn't it?
+
+Partner: <DELAY: 3_HOURS> It can be amusing when you're not personally affected by it. But when it happens to you, it can feel quite frustrating. Have you ever felt like that in real life?
+
+User: Yeah, sometimes I do feel frustrated when people try to take credit for my ideas. It’s annoying.
+
+Partner: <DELAY: 1_WEEK> I know exactly what you mean. It’s like they’re trying to make themselves look better while putting you down. Have you talked to them about it?
+
+User: Not really. I usually just avoid those situations if I can.
+
+Partner: <DELAY: 2_DAYS> Maybe next time you could address it more directly. It’s important to stand up for yourself, especially if it’s happening repeatedly.
+
+User: I guess you’re right. I should probably speak up more.
+
+Partner: <DELAY: 5_HOURS> Exactly! And remember, you’re not alone in this. Sometimes it helps to talk to someone you trust about what’s going on.
+
+User: Thanks for the advice. I’ll keep that in mind.
+
+Partner: <DELAY: 1_MONTH> Anytime. Just know that I’m here for you whenever you need to vent or discuss something.",0
+"Hello, did you catch the new episode of that show last night? I heard it was quite interesting. 😊
+
+<DELAY: 2_MINS>
+
+I saw the weather report today, and they said it might rain tomorrow. Should we plan something indoors just in case? 🌧️
+
+<DELAY: 5_HOURS>
+
+Have you finished reading that book yet? It's been on my mind lately. I thought it had some great insights. 📚
+
+<DELAY: 1_DAY>
+
+Hey, did you hear about the new season starting next month? I'm so excited! Maybe we can discuss it when you're done. 🎬
+
+<DELAY: 2_DAYS>
+
+By the way, have you noticed how much more relaxed everyone seems when the weather is nice? Maybe we could go for a walk sometime if you're interested. 🍃
+
+<DELAY: 3_DAYS>
+
+I was thinking about the plot of that show again. There were so many twists! Do you remember all the details? 🤔
+
+<DELAY: 1_WEEK>
+
+Speaking of the weather, I've been trying to figure out what days would be best to host a small gathering. Would you be free any weekends soon? 😊
+
+<DELAY: 2_WEEKS>
+
+Do you think the new season will continue the same storyline? I'm curious to see how they develop the characters further. 📺
+
+<DELAY: 3_WEEKS>
+
+Have you been keeping up with the weather forecasts? It looks like it's going to be a beautiful weekend. Maybe we could finally go for that walk then. 🌞
+
+<DELAY: 1_MONTH>",0
+"User: Hey, did you see that new episode of The Office? I loved how they handled the office politics!
+
+<DELAY: 1_HR>
+
+Bot: Oh, The Office! I haven't watched it in ages. It's been so long since we worked in an office together.",0
+"User: Yeah, it really shows how people react under pressure. You know, sometimes it feels like we're always under pressure at work too.
+
+<DELAY: 2_HOURS>
+
+Bot: Absolutely, and it can be exhausting. I feel like I'm constantly juggling everything. Maybe we should catch up for coffee sometime?",0
+"User: That sounds nice, but I've got a lot on my plate right now. How about next week?
+
+<DELAY: 1_DAY>
+
+Bot: Sure, take your time. I understand if you're busy. Work can be overwhelming at times, can't it?",0
+"User: Yeah, definitely. Have you tried any new recipes lately? I’ve been experimenting with some vegetarian dishes.
+
+<DELAY: 2_DAYS>
+
+Bot: Not really, I’ve been quite busy with work stuff. I guess I haven’t had much time to cook lately.",0
+"User: Oh, I see. It’s the same here. We both have our plates full, huh?
+
+<DELAY: 1_WEEK>
+
+Bot: Exactly, it’s been a bit hectic. But I hope you find some time to relax soon. You deserve it.",0
+"User: Thanks, I appreciate that. I’m trying to make the most of my weekends. 
+
+<DELAY: 2_WEEKS>
+
+Bot: That’s great to hear. I hope you enjoy them. Speaking of which, how was your weekend?",0
+"User: It was good, thanks. I managed to finish a project early and spent some quality time with the family.
+
+<DELAY: 3_WEEKS>
+
+Bot: Wow, that sounds wonderful. I wish I could do the same. It’s hard to find that balance between work and personal life sometimes.",0
+"User: True, it can be challenging. But when you finally get a break, it’s worth it.
+
+<DELAY: 1_MONTH>
+
+Bot: Absolutely, it’s all about finding that balance. Maybe next weekend, you’ll be able to unwind completely.",0
+"User: Fingers crossed! I hope you’re having a good week so far.
+
+<DELAY: 2_MONTHS>
+
+Bot: It’s going well, thanks for asking. I’ve been focusing on catching up on some",0
+"Hello, did you catch that new episode of the drama series last night? I heard it was quite intense! 😊
+
+<DELAY: 1_HR>
+
+Oh, I see you've been busy with work today. Haven't had a chance to watch it yet, huh? 🤷‍♂️
+
+<DELAY: 6_HRS>
+
+I was thinking, maybe we could watch it together sometime? It would be nice to catch up and discuss it. What do you think?
+
+<DELAY: 2_DYS>
+
+Hey, did you manage to watch the next episode yet? I'm really curious to know what happens! 😄
+
+<DELAY: 1_WK>
+
+I noticed you've been working a lot lately. Maybe we can find some time to relax and enjoy something light? 😌
+
+<DELAY: 2_WKS>
+
+Hey, have you seen any good shows recently? I thought we could explore some new stuff together. 😊
+
+<DELAY: 3_WKS>
+
+I've been thinking, maybe we should plan a movie night soon. There are so many great films out there to choose from! 🎬
+
+<DELAY: 1_MNTH>
+
+Hey, have you had a chance to check out the latest reviews for that show? I heard they're amazing! 📽️",0
+"Hey, how’s your week going? Everything seems pretty calm around here. 😊
+
+<DELAY: 1_HR>
+
+I hope you’re doing well. Sometimes it’s good to take a step back and enjoy some lighter moments, isn’t it? 😌
+
+<DELAY: 6_HRS>
+
+Just wanted to check in. How’s the work coming along? It’s been a bit hectic around here too. 🙏
+
+<DELAY: 2_DYS>
+
+Hey, do you have any plans for the weekend? I was thinking we could do something fun and unwind a bit. 🏖️
+
+<DELAY: 1_WK>
+
+I’ve been thinking, maybe we could try a new place for dinner this weekend? It could be a nice change of pace. 🍽️
+
+<DELAY: 2_WKS>
+
+Hey, have you had a chance to explore any new restaurants in town? I hear there’s a really great one opening soon! 🚀
+
+<DELAY: 3_WKS>
+
+I noticed you’ve been quite busy lately. How about we plan a day off to do something different? It might be good",0
+"I've been really worried about you, honestly. Maybe you should check in with a professional if you're feeling down lately. 😔
+
+<DELAY: 2_HOURS>
+
+Hey, just wanted to remind you that I noticed you haven't been sleeping well lately. Are you taking care of yourself? 🌙
+
+<DELAY: 8_HOURS>
+
+I heard you got some good news today. That's fantastic! 😊 How are you handling everything though? It can be overwhelming sometimes. 💪
+
+<DELAY: 1_DAY>
+
+Just checking in, I hope you're doing okay. Life can get tough at times. 🙏
+
+<DELAY: 3_DAYS>
+
+So, how’s everything going with work? I’ve noticed you haven’t been as responsive as usual. Is there anything I can help with? 📈
+
+<DELAY: 7_DAYS>
+
+Hey, I was wondering if you’ve had time to reflect on what we talked about last week. It’s important to take things slow and steady. 💡
+
+<DELAY: 2_WEEKS>
+
+I noticed you’ve been working late a lot recently. Have you thought about how that might affect your health? 🕺
+
+<DELAY: 3_WEEKS>
+
+Just saw this on your social media. It looks like you’re doing great! But remember, it’s okay to ask for help when you need it. 🎉",0
+"I’m really proud of you for sticking with your goals. I know they’re challenging, but you’re doing so well! 🚀
+
+<DELAY: 2_HOURS>
+
+It’s been a while since we talked. Everything okay? Sometimes it helps to share what’s on our minds. 🗣️
+
+<DELAY: 1_WEEK>
+
+Did you manage to finish that project? You’ve been putting in a lot of effort. 💪
+
+<DELAY: 2_MONTHS>
+
+I hope you’re taking some time to relax too. It’s important to recharge, you know. 😌",0
+"Have you seen the latest updates on the project? We’re making great progress! 🤝
+
+<DELAY: 1_HOUR>
+
+I noticed you haven’t been as active online lately. Everything alright? 🙏
+
+<DELAY: 1_MONTH>
+
+You did such a great job on that presentation. I’m really impressed by your dedication. 🎯
+
+<DELAY: 3_MONTHS>",0
+"She: Hi, just wanted to check if you're okay? Everything seems quiet on your end.
+
+<DELAY: 2_HOURS>
+
+He: Oh, hey! Yeah, everything's fine, thanks for asking. Just been busy with work lately.
+
+<DELAY: 1_DAY>
+
+She: I noticed you didn't reply to my last few messages. Everything okay?
+
+<DELAY: 1_HOUR>
+
+He: Oh, sorry about that. I was out of town for a bit and just got back yesterday. Thanks for checking in though!
+
+<DELAY: 1_WEEK>
+
+She: No problem at all. Just wanted to make sure you were alright. How’s work going?
+
+<DELAY: 1_DAY>
+
+He: Work’s good, thanks for asking. I’m trying to catch up on some projects. It’s a bit hectic but manageable.
+
+<DELAY: 1_MONTH>
+
+She: That sounds tough. Let me know if you need any help. I’m here if you need a break.
+
+<DELAY: 2_HOURS>
+
+He: Thanks, I appreciate it. I’ll keep that in mind. 
+
+<DELAY: 1_WEEK>
+
+She: Great, take care of yourself then. Let me know if there’s anything you need.
+
+<DELAY: 1_DAY>
+
+He: Will do. Thanks again.",0
+"Hello, just wanted to check in. Everything okay on your end? 😊<DELAY: 2_HOURS>
+
+Did you get my email about the project? Just wanted to make sure everything was going smoothly. Hope you're doing well! 👍<DELAY: 8_HOURS>
+
+Hey, I noticed you haven't replied to me in a while. Everything alright? Just checking in. 🙏<DELAY: 1_DAY>
+
+Just saw you were busy last night. Sorry if I interrupted anything. Let me know if you need help. 😊<DELAY: 1_DAY>
+
+I hope you’re having a good week. How’s the project coming along? Just wanted to support you. 🌟<DELAY: 2_DAYS>
+
+Sorry for any inconvenience I may have caused. Just wanted to check on how things are going. 🙏<DELAY: 2_DAYS>
+
+I noticed you’ve been really busy lately. Hope you’re managing. Just wanted to see if there’s anything I could do to assist. 🌟<DELAY: 3_DAYS>
+
+Just wanted to see how things are going. If you need a break, let me know. I’m here to support you. 😊<DELAY: 4_DAYS>
+
+I hope everything’s going well. Just checking in to see if you need anything. 🌟<DELAY: 5_DAYS>
+
+Sorry if I’ve been a bother. Just wanted to ensure you’re okay and that everything is going smoothly. 🙏",0
+"She: Did you get my message from yesterday?
+
+He: Oh, hi! Sorry about that, I was out and didn't check my phone much. 😔",0
+"She: It's just, we were supposed to meet today.
+
+He: Yeah, I know. I had some unexpected things come up. Hope that’s okay? 🙏",0
+"She: I see. Well, it’s a bit last minute, but can we reschedule for later today?
+
+He: Absolutely, no problem. How about in an hour or so? I’ll make sure to be free then. 😊",0
+"She: Okay, sounds good. Just wanted to make sure everything was alright.
+
+He: Of course! Everything’s fine here too. Thanks for checking in. 😅",0
+"She: No worries. Let me know if there’s anything you need.
+
+He: Will do. Take care! 👍",0
+"She: Alright, take care. Looking forward to seeing you later.
+
+He: Thanks! I’ll be ready. 👍",0
+"She: Perfect. Have a nice day!
+
+He: You too! Talk soon. 🌟",0
+"She: Nice to talk. Have a great one.
+
+He: You too. Catch you later! 💪",0
+"She: Sure thing. See you then.
+
+He: Definitely. Talk soon. ✌️",0
+"She: Sounds good. Take it easy.
+
+He: Will do. Have a great day! 👍",0
+"She: I've been thinking about our last conversation. 
+
+<DELAY: 2_HOURS>
+
+He: Oh, you mean about the meeting notes? 
+
+<DELAY: 3_HOURS>
+
+She: Yes, actually. I wanted to make sure everything was clear. 
+
+<DELAY: 4_HOURS>
+
+He: Of course, I can go over them again if you need. 
+
+<DELAY: 1_DAY>
+
+She: No, that's okay. I just wanted to check. 
+
+<DELAY: 1_WEEK>
+
+He: Sure thing, anytime you need. 
+
+<DELAY: 2_MONTHS>
+
+She: Thanks, I really appreciate it. 
+
+<DELAY: 6_MONTHS>
+
+He: Of course, you know I'm always here for you.",0
+"She: I noticed you haven't been sleeping well lately. 
+
+<DELAY: 2_HOURS>
+
+He: Oh, you noticed? I'm fine, really. 
+
+<DELAY: 3_HOURS>
+
+She: I only mention it because I care about you. 
+
+<DELAY: 4_HOURS>
+
+He: I know, and thank you for looking out. 
+
+<DELAY: 1_DAY>
+
+She: Just wanted to remind you to take care of yourself. 
+
+<DELAY: 1_WEEK>
+
+He: Thanks, I will. 
+
+<DELAY: 1_MONTH>
+
+She: Goodnight, hope you get some rest.",0
+"She: Did you finish that report by the deadline?
+
+<DELAY: 2_HOURS>
+
+He: Yes, I did. Everything’s on track. 
+
+<DELAY: 3_HOURS>
+
+She: That’s great to hear. I’m proud of you. 
+
+<DELAY: 4_HOURS>
+
+He: Thank you, I worked hard on it. 
+
+<DELAY: 1_DAY>
+
+She: I’m so glad you managed it. 
+
+<DELAY: 1_WEEK>
+
+He: You’ve been really supportive, thanks. 
+
+<DELAY: 1_MONTH>
+
+She: It’s what partners do for each other.",0
+"She: Hey, just wanted to check in. How's everything going?
+
+<DELAY: 1_HOUR>
+
+He: Oh, hey! Sorry for not getting back sooner, got caught up with some stuff. 
+
+<DELAY: 1_DAY>
+
+She: No worries, happens to all of us. Just wondering if you're okay with how things have been going lately. 
+
+<DELAY: 1_HOUR>
+
+He: Yeah, everything’s fine. Thanks for asking. I’m managing well. 
+
+<DELAY: 2_DAYS>
+
+She: Great to hear that. I was just thinking maybe we could talk more often, just to keep things smooth between us. 
+
+<DELAY: 1_HOUR>
+
+He: Definitely. I appreciate it. I’ve been a bit busy too, so let’s try to catch up more regularly. 
+
+<DELAY: 1_WEEK>
+
+She: Sounds good. Maybe we can plan something soon? Just to catch up properly.
+
+<DELAY: 1_DAY>
+
+He: Sure thing. Let me know when you’re free and we’ll make it happen. 
+
+<DELAY: 1_MONTH>
+
+She: Perfect. Looking forward to it. Talk soon!
+
+<DELAY: 2_DAYS>
+
+He: Can’t wait. Take care.",0
+"She: So, did you finish that project we discussed last week?
+
+He: Oh, wow! I didn’t realize it was due today. I’ve been so swamped with work and family stuff lately. I’ll get on it right away.
+
+<DELAY: 1_HR>
+
+She: It’s no big deal if it’s a bit late. Just wanted to check.
+
+He: Really? No, no, I’m fine. I’ll send it over now. Thanks for the heads up.
+
+<DELAY: 4_HRS>
+
+She: Great, thanks! Let me know if you need any help.
+
+He: Will do, but everything should be good. Thanks again for reminding me!
+
+<DELAY: 1_DAY>
+
+She: I noticed you’ve been really busy. Is everything okay at home too?
+
+He: Yeah, everything’s fine. Just a lot going on at work. No worries, though.
+
+<DELAY: 1_WEEK>
+
+She: I hope things are settling down for you then. Keep me updated if you need anything.
+
+He: Definitely will. Everything is under control now. Thanks for checking in.
+
+<DELAY: 2_WEEKS>
+
+She: I just saw some updates on your project. It looks amazing!
+
+He: Oh, thanks! I put in a lot of effort. I knew you’d appreciate it.
+
+<DELAY: 1_MONTH>
+
+She: You always work so hard. I really admire that. Keep it up!
+
+He: Thanks, it means a lot coming from you. I try my best.
+
+<DELAY: 3_MONTHS>
+
+She: I hope everything continues to go well for you. Maybe we can catch up soon?
+
+He: Sure thing. Sounds good. Take care!",0
+"She: Hey, how are things going with your new job?
+
+He: Oh, you know, it’s all good. Just getting used to the pace here. Nothing too exciting yet.
+
+<DELAY: 1_HR>
+
+She: I heard you got a raise. Congratulations!
+
+He: Yeah, they thought it was deserved. It’s nice to have that recognition.
+
+<DELAY: 1_DAY>
+
+She: That’s fantastic. How’s the commute?
+
+He: It’s okay. A bit longer than expected, but manageable. How about you?
+
+<DELAY: 1_WEEK>
+
+She: Still working on finding the perfect place. It’s a bit of a challenge. Did you hear about the new coffee shop opening downtown?
+
+He: Oh, yeah, that sounds great",0
+"She: So, did you finish the report by midnight?
+
+He: Oh, hey! I was just working on it and got sidetracked by some unexpected emails. Sorry if I couldn't respond earlier. <DELAY: 1_HR>
+
+She: No worries, it’s all good. Just checking since it’s due soon. How’s it coming along?
+
+He: It’s almost done! I’m just going over some final details. Really appreciate you checking in. <DELAY: 4_HRS>",0
+"She: Have you seen the new project plan?
+
+He: Yeah, I’ve been looking at it. I wanted to run some ideas by you later today. <DELAY: 15_MINS>
+
+She: Great, I’d love to hear them. You’re always so creative!
+
+He: Thanks! I’ll make sure to share my thoughts as soon as I can. <DELAY: 1_DAY>",0
+"She: Did you manage to get those figures finalized?
+
+He: Yes, I’ve got them sorted out. Just need to double-check one last thing. <DELAY: 30_MINS>
+
+She: Perfect, we need them for the meeting tomorrow. Thanks!
+
+He: Of course! I’ll send it over right away. <DELAY: 1_WEEK>",0
+"She: How’s the client briefing going?
+
+He: It’s going well. I think we’re making good progress. <DELAY: 2_HRS>
+
+She: That’s great to hear. Keep up the good work!
+
+He: Thanks, I’m really trying to stay on top of things. <DELAY: 1_MONTH>",0
+"She: Can you check on the supplier timeline for the next batch?
+
+He: Sure, I’ll look into it now. <DELAY: 5_MIN>
+
+She: Thanks a lot. We need to meet that deadline.
+
+He: Don’t worry, I’ve got it covered. <DELAY: 6_HRS>",0
+"She: Is everything set for the conference call tomorrow?
+
+He: Yeah, I’ve made sure all the necessary files are ready. <DELAY: 10_MINS>
+
+She: Excellent, everyone’s counting on you.
+
+He: I know, I’m doing my best. <DELAY: 1_MONTH>",0
+"She: Any updates on the project budget?
+
+He: I’ve been going through it, and everything seems to be on track. <DELAY: 15_MIN>
+
+She: That’s good to know. Thanks for keeping an eye on it",0
+"She: I was wondering if you had any plans for the weekend? 
+
+He: Oh, hey! Not really sure yet. Why do you ask?
+
+<DELAY: 2_MINS>
+
+She: Just wanted to know if you were free on Saturday. Thought we could catch up or something.
+
+He: Yeah, I’m free. What did you have in mind?
+
+<DELAY: 6_HOURS>
+
+She: Actually, I was thinking maybe we could grab lunch or something? It’s been a while since we’ve hung out properly.
+
+He: Sure, that sounds good. Do you have somewhere in mind?
+
+<DELAY: 1_DAY>
+
+She: Yeah, there’s this new place downtown that just opened up. I thought we could check it out.
+
+He: Sounds cool. Should we plan for around 2 PM?
+
+<DELAY: 2_DAYS>
+
+She: Perfect, I’ll make sure to be there at 2 then. See you soon!
+
+He: Great, looking forward to it. Have a nice day.
+
+<DELAY: 2_MINS>
+
+She: Thanks, you too. I hope you’re doing well.
+
+He: I am, thanks for asking. How about you?
+
+<DELAY: 1_WEEK>
+
+She: I’ve been busy with work, but things are starting to slow down. I think I’ll take Friday off to relax.
+
+He: That sounds nice. Maybe we can go for a walk or something?
+
+<DELAY: 1_MONTH>
+
+She: That would be lovely. Let’s plan for next Friday then.
+
+He: Sounds perfect. I’ll see you then.",0
+"She: Just checking in, hope you're doing okay. Life's been a bit hectic lately, you know how it is.
+
+<DELAY: 2_HOURS>
+
+He: Oh, hey! Sorry about that, got caught up in some stuff. Yeah, life can be crazy, can't it?
+
+<DELAY: 12_HOURS>
+
+She: Yeah, definitely. Have you had a chance to check out the new project details? They could really help us on our feet.
+
+<DELAY: 1_DAY>
+
+He: Thanks for reminding me, I’ve been swamped with deadlines. I’ll take a look as soon as I can.
+
+<DELAY: 3_DAYS>
+
+She: No problem at all. If you need any help, just let me know. We’re a team, after all.
+
+<DELAY: 1_WEEK>
+
+He: Of course, thanks. I’ll reach out if I need anything. Been really focused on finishing this current work though.
+
+<DELAY: 2_WEEKS>
+
+She: I understand completely. Take your time, we don’t want to rush things. Let’s touch base when you have a moment.
+
+<DELAY: 1_MONTH>
+
+He: Will do, thanks for understanding. I’ll catch up with you once I wrap up here.
+
+<DELAY: 2_MONTHS>
+
+She: Sounds good. Take care and keep in mind, I’m always here to help if you need a break too.",0
+"He: Good morning, how’s everything going? I noticed you haven’t been online much lately.
+
+<DELAY: 1_HOUR>
+
+She: Hi, yeah, just trying to get ahead on some tasks. Everything’s fine, thanks for asking.
+
+<DELAY: 6_HOURS>
+
+He: Great to hear that. Did you manage to review those reports from last month? They were due last week.
+
+<DELAY: 1_DAY>
+
+She: Almost done, just need to finish a few more details. I’ll send them over right away.
+
+<DELAY: 2_DAYS>
+
+He: Perfect, I appreciate it. And if you need any assistance, let me know. I’m here to support you.
+
+<DELAY: 1_WEEK>
+
+She: Thank you, that’s so kind of you. I’ll let you know if I need anything.
+
+<DELAY: 2_WEEKS>
+
+He: Sure thing. Keep up the good work, and remember, I’m here if you need a break or any advice.
+
+<DELAY: 1_MONTH>
+
+She",0
